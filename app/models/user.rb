@@ -4,6 +4,9 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
           :authentication_keys => [:name]
   validates :name, uniqueness: true, length: { minimum: 3, maximun: 25 }
+  has_many :articles , dependent: :destroy
+
+  protected
 
   def email_required?
     false
@@ -16,8 +19,6 @@ class User < ApplicationRecord
   def will_save_change_to_email?
     false
   end
-
-  protected
 
   def valid_password?
    false
