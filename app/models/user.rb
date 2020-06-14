@@ -13,23 +13,17 @@ class User < ApplicationRecord
     false
   end
   
-  # use this instead of email_changed? for Rails = 5.1.x
   def will_save_change_to_email?
     false
   end
 
   protected
 
+  def valid_password?
+   false
+  end
+
   def password_required?
     false
-  end
-
-  def after_confirmation_path_for(resource_name, resource)
-    token = resource.send(:set_reset_password_token)
-    edit_password_path(resource, reset_password_token: token)
-  end
-
-  def valid_password?
-      false
   end
 end

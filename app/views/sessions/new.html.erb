@@ -1,0 +1,16 @@
+<h2>Log in</h2>
+
+<%= form_with(scope: :session, url: user_session, local: true) do |f| %>
+  <div>
+    <%= f.label :name %>
+    <div class="col-10"> 
+      <%= f.text_field :name, placeholder: "Enter your user Name" %>
+    </div>
+  </div>
+
+  <div>
+    <%= f.submit "Log in" %>
+  </div>
+<% end %>
+
+<%= render "devise/shared/links" %>
