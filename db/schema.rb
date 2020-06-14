@@ -10,12 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_14_020232) do
+ActiveRecord::Schema.define(version: 2020_06_14_050216) do
 
   create_table "users", force: :cascade do |t|
     t.string "name", default: "", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "encrypted_password", default: "", null: false
     t.index ["name"], name: "index_users_on_name", unique: true
   end
 
