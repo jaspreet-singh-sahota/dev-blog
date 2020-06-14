@@ -1,0 +1,43 @@
+.log-in-card {
+  background-color: black;
+  opacity: 0.9;
+  width: 400px;
+  height: 300px;
+}
+
+.sign-up-backgroung-img {
+  background-image: asset-url('session1.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.btn-sign-in {
+  margin-top: 20px
+}
+
+.btn-sign-in, .user-logo{
+  background: linear-gradient(to right, #FDA10E 0%, #FF6C0D 100%);
+}
+
+.user-logo {
+  border: 3px solid silver;
+}
+
+.user-logo, .user-name-field {
+  border-radius: 0 !important;
+}
+
+.user-name-field {
+  background-color: #4e443e;
+  margin-left: -4px;
+  height: 31px;
+  padding-bottom: 3px;
+}
+
+.user-field-padding {
+  // margin-top: 90px;
+  padding-bottom: 20px;
+}
+
+

@@ -1,17 +1,23 @@
-<h2>Sign up</h2>
-
-<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
-  <%= render "devise/shared/error_messages", resource: resource %>
-  <div class="card w-50 shadow-lg p-3 mb-5">
-    <div class="card-body">
-      <h5 class="card-title">Login to your account</h5>
-      <div class="field">
-        <%= f.label :name %><br />
-        <%= f.text_field :name, autofocus: true, autocomplete: "name", placeholder: "Choose Your User Name" %>
-      </div>
-      <%= f.submit "Sign up", class: 'btn' %>
+<div class="sign-up-backgroung-img ">
+  <div class="container">
+    <div class="row justify-content-center">
+      <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+        <%= render "devise/shared/error_messages", resource: resource %>
+        <div class="card pt-3 log-in-card mt-5 shadow-lg rounded ">
+          <h1 class="text-white text-center font-weight-bolder">Sign up</h1>
+          <div class="card-body user-field-padding">
+            <h3 class="card-title text-white text-center mb-3">Choose Your User Name</h3>
+            <div class="field d-flex justify-content-center ">
+              <%= fa_icon "user", class: "text-white btn user-logo" %>
+              <%= f.text_field :name, autofocus: true, autocomplete: "name", class: "user-name-field text-white", placeholder: "Username"  %>
+            </div>
+            <div class='d-flex justify-content-center'>
+              <%= f.submit "Sign up", class: 'btn btn-sign-in text-white' %>
+            </div>
+          </div>
+        </div>
+      <% end %>
     </div>
   </div>
-<% end %>
 
-  <%= render "devise/shared/links" %>
+</div>
