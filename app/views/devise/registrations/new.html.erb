@@ -2,15 +2,16 @@
 
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
   <%= render "devise/shared/error_messages", resource: resource %>
-
-  <div class="field">
-    <%= f.label :name %><br />
-    <%= f.text_field :name, autofocus: true, autocomplete: "name" %>
-  </div>
-
-  <div class="actions">
-    <%= f.submit "Sign up" %>
+  <div class="card w-50 shadow-lg p-3 mb-5">
+    <div class="card-body">
+      <h5 class="card-title">Login to your account</h5>
+      <div class="field">
+        <%= f.label :name %><br />
+        <%= f.text_field :name, autofocus: true, autocomplete: "name", placeholder: "Choose Your User Name" %>
+      </div>
+      <%= f.submit "Sign up", class: 'btn' %>
+    </div>
   </div>
 <% end %>
 
-<%= render "devise/shared/links" %>
+  <%= render "devise/shared/links" %>
