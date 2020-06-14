@@ -2,8 +2,8 @@ class User < ApplicationRecord
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, :registerable,
-          :authentication_keys => [:username]
-  validates :username, uniqueness: true, length: { minimum: 3, maximun: 25 }
+          :authentication_keys => [:name]
+  validates :name, uniqueness: true, length: { minimum: 3, maximun: 25 }
 
   def email_required?
     false
