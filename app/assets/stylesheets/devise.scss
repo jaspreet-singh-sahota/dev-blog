@@ -1,12 +1,12 @@
 .log-in-card {
-  background-color: black;
-  opacity: 0.9;
+  background-color: #443a34;
+  opacity: 0.94;
   width: 400px;
   height: 300px;
 }
 
 .sign-up-backgroung-img {
-  background-image: asset-url('session1.jpg');
+  background-image: asset-url('log-in1.jpg');
   background-size: cover;
   height: 100vh;
   width: 100%;
@@ -29,7 +29,6 @@
 }
 
 .user-name-field {
-  background-color: #4e443e;
   margin-left: -4px;
   height: 31px;
   padding-bottom: 3px;

@@ -9,7 +9,7 @@
             <h3 class="card-title text-white text-center mb-3">Choose Your User Name</h3>
             <div class="field d-flex justify-content-center ">
               <%= fa_icon "user", class: "text-white btn user-logo" %>
-              <%= f.text_field :name, autofocus: true, autocomplete: "name", class: "user-name-field text-white", placeholder: "Username"  %>
+              <%= f.text_field :name, autofocus: true, autocomplete: "name", class: "user-name-field", placeholder: "Username"  %>
             </div>
             <div class='d-flex justify-content-center'>
               <%= f.submit "Sign up", class: 'btn btn-sign-in text-white' %>
@@ -19,5 +19,4 @@
       <% end %>
     </div>
   </div>
-
 </div>
