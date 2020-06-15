@@ -4,8 +4,9 @@ class SessionsController < Devise::SessionsController
 
   def create
     user = User.find_by(name: params[:session][:name])
-    if user 
+    if user
       sign_in(user)
+      current_user = user.id
       flash[:notice] = "Logged in successfully"
       redirect_to root_path
     else

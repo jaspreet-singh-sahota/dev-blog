@@ -4,5 +4,5 @@ class Article < ApplicationRecord
   has_many :categories, through: :article_categories
   validates :title, :image, :categories, presence: true
   validates :title, presence: true, length: { minimun: 3, maximum: 100 }
-  validates :description, presence: true, length: { minimum: 10, maximum: 5000 }
+  validates :text, presence: true, length: { minimum: 10, maximum: 5000 }
 end
