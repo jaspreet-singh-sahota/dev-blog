@@ -7,12 +7,10 @@ class CategoriesController < ApplicationController
     @categories = Category.all
   end
 
-  # GET /categories/1
-  # GET /categories/1.json
   def show
+    @category_articles = @category.articles.ordered_by_most_recent
   end
 
-  # GET /categories/new
   def new
     @category = Category.new
   end
