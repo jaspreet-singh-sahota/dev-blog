@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white nav-bottom">
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mx-auto">
+     <% if user_signed_in? %>
+      <li class="nav-item" >
+        <%= link_to 'Home', root_path, class: 'nav-link font-weight-bold', id: 'current' %>
+      </li>
+      <li class="nav-item">
+        <%= link_to 'Create an Article', new_article_path, class: 'nav-link font-weight-bold' %>
+      </li>
+       <%= render 'layouts/categories'%>
+      <li class="nav-item"></li>
+       <% end %>
+    </ul>
+     <ul class="navbar-nav ml-auto">
+     <%#= render 'layouts/login'%>
+      </ul>
+  </div>
+</nav>
