@@ -1,2 +1,2 @@
-module CategoriessesHelper
+module CategoriesHelper
 end
