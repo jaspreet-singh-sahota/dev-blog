@@ -54,7 +54,7 @@ body a:hover {
 }
 
 #sticky-footer {
- position: fixed;
+  position: fixed;
   bottom: 0;
   width: 100%;
   background-color: #4e443f !important;
@@ -75,7 +75,7 @@ ul { list-style-type: none; }
   margin: auto;
 }
 
-#current-color {
-  color: #fe6001;
+.current-color {
+  color: #fe6001 !important;
 }
 
