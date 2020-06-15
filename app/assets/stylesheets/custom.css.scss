@@ -6,3 +6,34 @@
   padding: 0;
 }
 
+.fa {
+  color: #4e443f;
+  font-size: 1rem;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #fe6001;
+  background-color: #fe6001;
+  padding: 0.35em 0.5em;
+}
+
+#sticky-footer {
+ position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #4e443f !important;
+  display:flex;
+  justify-content: space-between;
+}
+
+.footer-flex {
+  display: flex;
+  padding: 1em;
+}
+
+ul { list-style-type: none; }
+
+.footer-flex li { padding: .3em; }
+
+#flash-messages {
+  margin: auto;
+}
+
