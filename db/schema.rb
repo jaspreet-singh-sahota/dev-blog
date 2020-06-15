@@ -10,12 +10,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_14_143618) do
+ActiveRecord::Schema.define(version: 2020_06_15_075747) do
+
+  create_table "article_categories", force: :cascade do |t|
+    t.integer "article_id", null: false
+    t.integer "category_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["article_id"], name: "index_article_categories_on_article_id"
+    t.index ["category_id"], name: "index_article_categories_on_category_id"
+  end
 
   create_table "articles", force: :cascade do |t|
     t.string "title"
     t.text "text"
     t.string "image"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "categories", force: :cascade do |t|
+    t.string "name"
+    t.integer "priority"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -28,4 +44,6 @@ ActiveRecord::Schema.define(version: 2020_06_14_143618) do
     t.index ["name"], name: "index_users_on_name", unique: true
   end
 
+  add_foreign_key "article_categories", "articles"
+  add_foreign_key "article_categories", "categories"
 end
