@@ -4,9 +4,10 @@
   </li>
     <% else %>
   <li class="nav-item">
-    <%= link_to 'Login', new_user_session_path, class: 'nav-link font-weight-bold' %>
+    <%= link_to 'Login', new_user_session_path, class: 'nav-link mr-n2 font-weight-bold' %>
   </li>
+  <li class="nav-item nav-link font-weight-bold">|</li>
   <li class="nav-item" id="border-l">
-    <%= link_to 'Register', new_user_registration_path, class: 'nav-link font-weight-bold' %>
+    <%= link_to 'Register', new_user_registration_path, class: 'nav-link ml-n2 font-weight-bold' %>
   </li>
 <% end %>

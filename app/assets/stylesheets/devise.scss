@@ -3,12 +3,13 @@
   opacity: 0.94;
   width: 400px;
   height: 300px;
+  margin-top: 100px;
 }
 
 .sign-up-backgroung-img {
   background-image: asset-url('log-in1.jpg');
   background-size: cover;
-  height: 100vh;
+  height: 90vh;
   width: 100%;
 }
 
@@ -29,14 +30,16 @@
 }
 
 .user-name-field {
-  margin-left: -4px;
-  height: 31px;
+  height: 34px;
   padding-bottom: 3px;
 }
 
 .user-field-padding {
-  // margin-top: 90px;
   padding-bottom: 20px;
+}
+
+.logo {
+  color: #fe6001;
 }
 
 
