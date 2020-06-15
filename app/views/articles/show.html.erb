@@ -1,5 +1,9 @@
-<p id="notice"><%= notice %></p>
-
-
-<%= link_to 'Edit', edit_article_path(@article) %> |
-<%= link_to 'Back', articles_path %>
+<div class= 'container w-50 pr-n5 pl-n5 text-article-show-page mt-2'>
+  <div class= 'img-article'>
+    <%= image_tag @article.image.url, class: 'element-show element'%>
+  </div>
+  <h1 class=" text-center font-weight-bold text-title mt-3 mb-5 "><%= @article.title%></h1>
+  <p class="font-weight-bolder"><%= @article.text%></p>
+  <span class= 'font-weight-bold'>Author : <strong class="current-color" ><%= link_to @article.user.name, "#", class: 'user-name-show-page' %> </strong></span>
+  <span class= "ml-3"><%= pluralize(@article.votes.count, 'Vote') %></span>
+</div>
