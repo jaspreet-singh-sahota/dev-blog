@@ -6,7 +6,14 @@
   <table class="table table-bordered table-color table-hover">
     <thead>
       <tr>
-        <th scope="col" class="text-white text-center"><%= @result.name %></th>
+        <th scope="col" class="text-white text-center">
+          <%= link_to article_path(@result), class: "text-white" do %>
+            <%= @result.title %>
+            <button type="button" class="close text-white" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+          <% end %>
+        </th>
       </tr>
     </thead>
   </table>

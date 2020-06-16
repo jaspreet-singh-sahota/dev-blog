@@ -17,14 +17,14 @@ class ArticlesController < ApplicationController
   end
 
   def search
-    @result = User.find_by(name: params[:search])
+    @result = Article.find_by(title: params[:search])
     if @result
       respond_to do |format|
         format.js { render partial: 'articles/result'}
       end
     else
       respond_to do |format|
-        flash.now[:alert] = 'Author or Article not found'
+        flash.now[:alert] = 'Article not found'
         format.js { render partial: 'articles/result' }
       end
     end
