@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white nav-bottom">
   <h4 class="pt-2">Dev-<strong class="logo">BLOG</strong></h4>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav font-size mx-auto">
+    <ul class="navbar-nav font-size home-links">
      <% if user_signed_in? %>
       <li class="nav-item" >
         <%= link_to 'Home', root_path, class: 'nav-link font-weight-bold'%>
@@ -13,9 +13,9 @@
       <li class="nav-item"></li>
        <% end %>
     </ul>
-    <%= render 'articles/search_form' %>
-    <ul class="navbar-nav font-size ml-auto">
-     <%= render 'layouts/login'%>
+    <ul class="navbar-nav font-size ml-auto search-position">
+      <li class='search-form' ><%= render 'articles/search_form' %></li>
+     <li><%= render 'layouts/login'%></li>
     </ul>
   </div>
 </nav>

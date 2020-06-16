@@ -1,12 +1,12 @@
-<div class="col-sm-9">
+<div class="col-sm-12">
   <%= render 'layouts/messages' %>
 </div>
 
 <% if @result %> 
-  <table class="table table-bordered table-striped table-dark table-hover">
+  <table class="table table-bordered table-color table-hover">
     <thead>
       <tr>
-        <th scope="col"><%= @result.name %></th>
+        <th scope="col" class="text-white text-center"><%= @result.name %></th>
       </tr>
     </thead>
   </table>

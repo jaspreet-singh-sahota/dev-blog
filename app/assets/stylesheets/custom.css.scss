@@ -70,7 +70,7 @@ nav a:hover, footer a:hover {
 
 #page-content {
   min-height: 100%;
-  margin-bottom: -70px;
+  margin-bottom: -60px;
 }
 
 .footer-flex {
@@ -80,7 +80,7 @@ nav a:hover, footer a:hover {
 
 .footer,
 .push {
-  height: 70px;
+  height: 60px;
 }
 
 .footer-flex li { padding: .3em; }
@@ -93,3 +93,29 @@ nav a:hover, footer a:hover {
   color: #fe6001 !important;
 }
 
+.search-position {
+position: absolute;
+right: 10px;
+top: 11px;
+}
+
+.btn-secondary {
+  background-color: #fe6001;
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(to right, #FDA10E 0%, #FF6C0D 100%);
+}
+
+.form-margin-left {
+  margin-left: -88px;
+  height: 38px;
+}
+
+.search-form {
+  margin-left: auto;
+}
+
+.home-links {
+  margin-left: 170px;
+}
