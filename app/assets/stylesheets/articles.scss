@@ -23,7 +23,11 @@
 }
 
 .text-article-show-page p {
-  font-size: 1.2rem;
-  line-height: 20px;
-
+  font-size: 1.3rem;
+  line-height: 25px;
 }
+
+strong a:hover, .upvote-downvote a:hover {
+  background-color: transparent;
+}
+

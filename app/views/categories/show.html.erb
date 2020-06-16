@@ -1,19 +1,20 @@
 <div class="articles">
   <% @category_articles.each do |article| %>
-    <div class= 'article'>
-        <div>
-          <%= image_tag(article.image.url, class: 'article-img element') %>
-        </div>
-        <div class="card-body">
-          <h5 class='category-name font-weight-bolder'><%= @category.name %></h5>
-          <h5 class="card-text font-weight bold"><%= article.title %></h5>
-          <p class="card-text"><%= truncate(article.text, length: 330) %></p>
-          <%= pluralize(article.votes.count, 'Vote') %> 
-        
-          <p>
-          <%= link_to 'Read more', article_path(article), class: 'current-color' %>
-          </p>
-        </div>
-    </div>
+    <%= link_to article_path(article), id: "categories-links" do %>
+      <div class= 'article'>
+          <div>
+            <%= image_tag(article.image.url, class: 'article-img element') %>
+          </div>
+          <div class="card-body">
+            <h5 class='category-name font-weight-bolder'><%= @category.name %></h5>
+            <h5 class="card-text font-weight bold"><%= truncate(article.title, length: 55) %></h5>
+            <p class="card-text"><%= truncate(article.text, length: 315) %></p>
+            <%= pluralize(article.votes.count, 'Vote') %> 
+            <%= fa_icon "thumbs-up" %>
+            <p>
+            </p>
+          </div>
+      </div>
+    <% end %>
   <% end %>
 </div>

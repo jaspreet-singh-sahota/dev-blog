@@ -10,10 +10,11 @@
   </head>
 
   <body id="body">
-      <%= render 'layouts/navbar' %>
+    <%= render 'layouts/navbar' %>
+    <div class="page-content">
       <%= render 'layouts/messages'%>
-    <div class="container-fluid p-0">
       <%= yield %>
+      <div class="push"></div>
     </div>
     <%= render 'layouts/footer'%>
   </body>

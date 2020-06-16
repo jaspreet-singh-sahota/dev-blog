@@ -63,7 +63,7 @@
 
 .bottom-left {
   position: absolute;
-  bottom: 50px;
+  bottom: 10px;
   left: 16px;
 }
 
@@ -80,4 +80,8 @@
 }
 
 .img-bottom { border-bottom: 2px solid #f4f30e; }
+
+a:hover {
+  background-color: none !important;
+}
 

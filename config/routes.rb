@@ -6,5 +6,8 @@ Rails.application.routes.draw do
     sessions: 'sessions'
   }
   root to: 'categories#index'
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  get 'search_articles', to: 'articles#search'
+  resources :articles do
+    resources :votes
+  end
 end

@@ -16,9 +16,22 @@ class ArticlesController < ApplicationController
   def edit
   end
 
+  def search
+    @result = User.find_by(name: params[:search])
+    if @result
+      respond_to do |format|
+        format.js { render partial: 'articles/result'}
+      end
+    else
+      respond_to do |format|
+        flash.now[:alert] = 'Author or Article not found'
+        format.js { render partial: 'articles/result' }
+      end
+    end
+  end  
+
   def create
-    @article = Article.new(article_params)
-    @article.user_id = current_user.id
+    @article = current_user.articles.build(article_params)
     if @article.save
       flash[:notice] = 'Article successfully created'
       redirect_to root_path
