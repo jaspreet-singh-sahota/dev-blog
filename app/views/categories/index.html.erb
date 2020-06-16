@@ -1,0 +1,34 @@
+<div class = 'container-fluid'>
+  <div class= 'row'>
+    <div class= 'col sm-12 main-img p-0'>
+      <%= image_tag(@feature_article.image ? @feature_article.image.url : '', class: 'img') %> 
+      <div class="bottom-left-main">
+        <h6 class= 'current-color font-weight-bold ml-3'><%= @feature_article.title ? @feature_article.title : '' %></h6>
+        <p class= 'text-white font-weight-bold ml-3'><%= truncate(@feature_article.text , length: 350)%></p>
+      </div> 
+    </div>
+  </div>
+</div>
+  <!-- categories -->
+<div id="portfolio">
+  <div class="container-fluid p-0">
+    <div class="row no-gutters">
+      <% Category.includes(:ordered_by_most_recent).each do |category|%>
+        <% subcategories = category.ordered_by_most_recent.first %>
+        <div class="col-sm-3 bg">
+          <div class="element">
+            <%= image_tag( subcategories.present? ? subcategories.image.url : '', class: 'image element"') %>
+          </div>
+          <%= link_to category_path(category.id) do %>
+            <div class="top-left">
+              <h6 class= 'font-weight-bold text-white img-bottom'><%= category.name %></h6>
+            </div>
+            <div class="bottom-left">
+              <p class= 'text-white font-weight-bold'><%= subcategories.present? ? subcategories.title : '' %></p>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>

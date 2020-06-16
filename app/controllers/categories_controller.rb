@@ -1,10 +1,13 @@
 class CategoriesController < ApplicationController
-  before_action :set_category, only: [:show, :edit, :update, :destroy]
+  before_action :set_category, only: [:show, :edit, :update, :destroy]  
+  skip_before_action :authenticate_user!, only: [:index]
+
 
   # GET /categories
   # GET /categories.json
   def index
     @categories = Category.all
+    @feature_article = Article.highest_vote.first
   end
 
   def show
