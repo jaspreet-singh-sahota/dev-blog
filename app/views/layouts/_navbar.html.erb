@@ -14,7 +14,9 @@
        <% end %>
     </ul>
     <ul class="navbar-nav font-size ml-auto search-position">
-      <li class='search-form' ><%= render 'layouts/search_form' %></li>
+      <% if user_signed_in? %>
+        <li class='search-form' ><%= render 'layouts/search_form' %></li>
+      <% end %>
      <li><%= render 'layouts/login'%></li>
     </ul>
   </div>
