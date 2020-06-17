@@ -8,4 +8,8 @@ module ApplicationHelper
       link_to('<i class="fa fa-thumbs-up"></i>'.html_safe, article_votes_path(article_id: article.id), method: :post)
     end
   end
+
+  def cp(path)
+    "current-color" if current_page?(path)
+  end
 end

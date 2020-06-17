@@ -7,7 +7,7 @@
           <div class="card-body">
             <h5 class='category-name font-weight-bolder'><%= @category.name %></h5>
             <h5 class="card-text font-weight bold"><%= truncate(article.title, length: 55) %></h5>
-            <p class="card-text"><%= truncate(article.text, length: 325) %></p>
+            <p class="card-text"><%= truncate(article.text, length: 315) %></p>
             <%= pluralize(article.votes.count, 'Vote') %> 
             <%= fa_icon "thumbs-up" %>
             <p>

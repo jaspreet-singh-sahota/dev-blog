@@ -4,17 +4,17 @@
     <ul class="navbar-nav font-size home-links">
      <% if user_signed_in? %>
       <li class="nav-item" >
-        <%= link_to 'Home', root_path, class: 'nav-link font-weight-bold'%>
+        <%= link_to 'Home', root_path, class: "#{cp(root_path)} nav-link font-weight-bold"%>
       </li>
       <li class="nav-item">
-        <%= link_to 'Create an Article', new_article_path, class: 'nav-link font-weight-bold' %>
+        <%= link_to 'Create an Article', new_article_path, class: "#{cp(new_article_path)} nav-link font-weight-bold" %>
       </li>
-       <%= render 'layouts/categories'%>
+        <%= render 'categories/categories'%>
       <li class="nav-item"></li>
        <% end %>
     </ul>
     <ul class="navbar-nav font-size ml-auto search-position">
-      <li class='search-form' ><%= render 'articles/search_form' %></li>
+      <li class='search-form' ><%= render 'layouts/search_form' %></li>
      <li><%= render 'layouts/login'%></li>
     </ul>
   </div>
