@@ -32,7 +32,7 @@
   grid-template-columns: repeat(2, 1fr); 
 }
 
-.article:nth-child(3), .article:nth-child(4) { direction: rtl; }
+.article:nth-child(4n), .article:nth-child(4n-1) { direction: rtl; }
 
 .article-img {
   width: 100%;
@@ -56,10 +56,7 @@
 
 .category-name {
   color: #f99c00;
-  width: min-content;
-  border-bottom: 2.7px solid #f99c00;
 }
-
 
 .bottom-left {
   position: absolute;

@@ -3,16 +3,16 @@
 </div>
 
 <% if @result %> 
-  <table class="table table-bordered table-color table-hover">
+  <table class="table table-bordered table-color">
     <thead>
       <tr>
-        <th scope="col" class="text-white text-center">
+        <th scope="col" class="text-white text-center alert alert-dismissible fade show" role="alert">
           <%= link_to article_path(@result), class: "text-white" do %>
             <%= @result.title %>
-            <button type="button" class="close text-white" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
           <% end %>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </th>
       </tr>
     </thead>
