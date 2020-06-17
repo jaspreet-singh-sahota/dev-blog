@@ -1,7 +1,7 @@
 <div class = 'container-fluid'>
   <div class= 'row'>
     <div class= 'col sm-12 main-img p-0'>
-      <%= image_tag(@feature_article.image ? @feature_article.image.url : '', class: 'img') %> 
+      <%= image_tag(@feature_article.image.url, class: 'img') %> 
       <div class="bottom-left-main">
         <h6 class= 'current-color font-weight-bold ml-3'><%= @feature_article.title ? @feature_article.title : '' %></h6>
         <p class= 'text-white font-weight-bold ml-3'><%= truncate(@feature_article.text , length: 350)%></p>

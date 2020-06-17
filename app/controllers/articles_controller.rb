@@ -20,7 +20,7 @@ class ArticlesController < ApplicationController
       end
     else
       respond_to do |format|
-        flash.now[:alert] = 'Article not found'
+        flash.now[:alert] = 'Search field is blank'
         format.js { render partial: 'articles/result' }
       end
     end
@@ -47,6 +47,8 @@ class ArticlesController < ApplicationController
   end
 
   def search_params
-    @result = Article.where("title like ?", "%#{params[:search]}%")
+    if params[:search] != ''
+      @result = Article.where("title like ?", "%#{params[:search]}%")
+    end
   end
 end
