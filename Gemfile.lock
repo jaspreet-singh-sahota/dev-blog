@@ -296,7 +296,7 @@ DEPENDENCIES
   rspec-rails
   sass-rails (>= 6)
   selenium-webdriver
-  shoulda-matchers (~> 3.1)
+  shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3 (~> 1.4)

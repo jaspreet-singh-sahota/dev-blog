@@ -3,7 +3,7 @@ class User < ApplicationRecord
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, :registerable,
           :authentication_keys => [:name]
-  validates :name, uniqueness: true, length: { minimum: 3, maximun: 25 }
+  validates :name, presence: true, uniqueness: true, length: { minimum: 3, maximum: 25 }
   has_many :articles , dependent: :destroy
   has_many :votes
   has_many :liked_posts, through: :votes

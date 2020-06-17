@@ -41,6 +41,15 @@ RSpec.describe ArticlesController, type: :controller do
   # ArticlesController. Be sure to keep this updated too.
   let(:valid_session) { {} }
 
+  describe 'GET #new' do
+    it 'renders the new articles page' do
+      get :new
+
+      expect(response).to render_template('new')
+      expect(response).to have_http_status(200)
+    end
+  end
+
   describe "GET #index" do
     it "returns a success response" do
       Article.create! valid_attributes
