@@ -1,0 +1,54 @@
+e25f600b69cd0c8caa4afc24f385dfa8abdc17f4		branch '3-0-maintenance' of https://github.com/rspec/rspec-support
+aa8439615fe7fcdb2a46b1d5363bfc6f226f463f		branch '3-1-maintenance' of https://github.com/rspec/rspec-support
+876f5a339dfb62532a5e8a8c2f2870b4cdb267d3		branch '3-2-maintenance' of https://github.com/rspec/rspec-support
+217a7148d39a9276437bba4f20649225952c6f25		branch '3-3-maintenance' of https://github.com/rspec/rspec-support
+c60d42f6e0707cb4051f95a386d1c4abd2340668		branch '3-4-maintenance' of https://github.com/rspec/rspec-support
+0a0968539e561d5d5174d09a99f484d0911d99f5		branch '3-5-maintenance' of https://github.com/rspec/rspec-support
+e8ffbe871e68b7420f8b16825cdca106dccaadb7		branch '3-6-maintenance' of https://github.com/rspec/rspec-support
+0af37adb2057ad344a26ed9fb131a8d3dc62cd77		branch '3-7-maintenance' of https://github.com/rspec/rspec-support
+78657b0f7b50cf4b451e96a7b3c4e3179bacb328		branch '3-8-maintenance' of https://github.com/rspec/rspec-support
+0953e54127b70fbf4adac05e467734e095989501		branch '3-9-maintenance' of https://github.com/rspec/rspec-support
+6fea354000f49f298999206f6a25c0931925cf62		branch 'add-send-to-with-keyword-args' of https://github.com/rspec/rspec-support
+abbdc93314d9a4f6a312f855781195a9c24778bc		branch 'benchmarks' of https://github.com/rspec/rspec-support
+f1d486baf183b6f4c93de0215e4a9b33da97318d		branch 'demonstate_diff_issue_with_nokogiri' of https://github.com/rspec/rspec-support
+7aa2de082991edd7f5239a2b4570c4380af039c1		branch 'invalid-encoding-source-from-file-fix' of https://github.com/rspec/rspec-support
+477526496df55ac48c8f129f4696bdd215c103c0		branch 'kw-args-fix-2' of https://github.com/rspec/rspec-support
+47c9ea9479e65c9f719a3bbdb20f516b773cad97		branch 'master' of https://github.com/rspec/rspec-support
+32e041a67270804fe3a2e3413e9828c0e14256e3		branch 'pr-151-changes' of https://github.com/rspec/rspec-support
+e1bd70750425618a0de10f90275c4b9bac4f3db6		branch 'samphippen/feature/multi-matching' of https://github.com/rspec/rspec-support
+bf6a4a8183805b58b926658de43229a5e573a307		branch 'samphippen/object-formatter-length' of https://github.com/rspec/rspec-support
+0e19a0cf2f257ac68282f6680f14049fb8e304ce		branch 'show-example-if-no-call-site' of https://github.com/rspec/rspec-support
+9dcd6d7bece7636a7613f610ce2b50ae9eeea816	not-for-merge	tag 'v3.0.0' of https://github.com/rspec/rspec-support
+9ddfa338e1cf039af0a2f59ed080976f6ff48935	not-for-merge	tag 'v3.0.0.beta1' of https://github.com/rspec/rspec-support
+db7c9b98ecac39ec3b797a122f4f47dd859692ae	not-for-merge	tag 'v3.0.0.beta2' of https://github.com/rspec/rspec-support
+8182b1fb93b99ff87f2bc48ac2f2a2332d77037a	not-for-merge	tag 'v3.0.0.rc1' of https://github.com/rspec/rspec-support
+7cee5097e5b567ce4a653d6e24be3681dab0d99e	not-for-merge	tag 'v3.0.1' of https://github.com/rspec/rspec-support
+3c1e0b992f34b54f15b7ca7075683cab0a0b1bb8	not-for-merge	tag 'v3.0.2' of https://github.com/rspec/rspec-support
+36dba9a5dd7cf489929dd73f0db8f04d0abbbd84	not-for-merge	tag 'v3.0.3' of https://github.com/rspec/rspec-support
+f86a89b90b7d56b8397ccc5fe9bba892218c0c39	not-for-merge	tag 'v3.0.4' of https://github.com/rspec/rspec-support
+032807d392ab0717f8b4a0c9a3abe1ea044e9deb	not-for-merge	tag 'v3.1.0' of https://github.com/rspec/rspec-support
+af9beb7f6d0d1a69b8391f90cbcd91cee8ae4436	not-for-merge	tag 'v3.1.1' of https://github.com/rspec/rspec-support
+a6f5ab993d7029ba07d298305930bf02d30acc94	not-for-merge	tag 'v3.1.2' of https://github.com/rspec/rspec-support
+23e2ce1ad702c81de7a3ce2a9a54701e63ada83a	not-for-merge	tag 'v3.2.0' of https://github.com/rspec/rspec-support
+4ca6f6d74e75d90bdfc406040cf2466bf74caac6	not-for-merge	tag 'v3.2.1' of https://github.com/rspec/rspec-support
+bd2d0b5867f523f9f6a524ea3e2f2a3d38852bb5	not-for-merge	tag 'v3.2.2' of https://github.com/rspec/rspec-support
+39129d2e881dc6ad1628e01715799a4fbf325b15	not-for-merge	tag 'v3.3.0' of https://github.com/rspec/rspec-support
+bad21cf534287b54d47dfbc632bebc09187d6bf2	not-for-merge	tag 'v3.4.0' of https://github.com/rspec/rspec-support
+a0829290efaa4c4a5a7b9a3c2bc20b405cb653d8	not-for-merge	tag 'v3.4.1' of https://github.com/rspec/rspec-support
+5c459d8927337a48781c1c36d9ea73f6c8f8f81d	not-for-merge	tag 'v3.5.0' of https://github.com/rspec/rspec-support
+bd20be0b7b51f696cb1918f2650b7c6e2fb1719e	not-for-merge	tag 'v3.5.0.beta1' of https://github.com/rspec/rspec-support
+5256c8af376ff871f90c8176830f76b7cf1bff2f	not-for-merge	tag 'v3.5.0.beta2' of https://github.com/rspec/rspec-support
+8ca1f244ceb0ab06c4e4cb50fb72c3f80e2e6e3b	not-for-merge	tag 'v3.5.0.beta3' of https://github.com/rspec/rspec-support
+723f5f325b302129f428ec111680400cb547acb8	not-for-merge	tag 'v3.5.0.beta4' of https://github.com/rspec/rspec-support
+0cfc7d83bd36c16eb7fa12ee63cd320779a821f1	not-for-merge	tag 'v3.6.0' of https://github.com/rspec/rspec-support
+a5c16281ee92a2f81f3b85babcc638673b30dbc4	not-for-merge	tag 'v3.6.0.beta1' of https://github.com/rspec/rspec-support
+1c1dcd731708e5eb2db026ba244c0f4012bd6a2f	not-for-merge	tag 'v3.6.0.beta2' of https://github.com/rspec/rspec-support
+fed5a5dd7065de2b9b27e07307b6fd6bdc9acfff	not-for-merge	tag 'v3.7.0' of https://github.com/rspec/rspec-support
+b465bf6dc78934a2b4097d19a48ceb4ea2754b3a	not-for-merge	tag 'v3.7.1' of https://github.com/rspec/rspec-support
+83ee88cb60561a13b66b8b136fead07fc4a4d37a	not-for-merge	tag 'v3.8.0' of https://github.com/rspec/rspec-support
+f5e23f46ff33edb752515cb7147df74d052dcbe4	not-for-merge	tag 'v3.8.2' of https://github.com/rspec/rspec-support
+c62be12e69a9f5a6703d2dae7591905ae8cadb87	not-for-merge	tag 'v3.8.3' of https://github.com/rspec/rspec-support
+cd2f0e36926b427f64327659569faac03b80635b	not-for-merge	tag 'v3.9.0' of https://github.com/rspec/rspec-support
+f0b9376046ac3f7a3c34e36d74de2fa56a39bb51	not-for-merge	tag 'v3.9.1' of https://github.com/rspec/rspec-support
+799f9f92ba3e92de2d989b8223fb09f5387b098a	not-for-merge	tag 'v3.9.2' of https://github.com/rspec/rspec-support
+0c03047176e96d12f7a90b62bb3fe0dc82a66a04	not-for-merge	tag 'v3.9.3' of https://github.com/rspec/rspec-support

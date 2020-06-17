@@ -1,0 +1,158 @@
+1196f935ab84e814bd4ba633375a69471a290999		branch '2-0-stable' of https://github.com/rspec/rspec-expectations
+5f38292cc6775a35abe980138003b711a598bcc7		branch '2-11-maintenance' of https://github.com/rspec/rspec-expectations
+227714e70e0e213b19068a4d06e6921716b850ef		branch '2-14-maintenance' of https://github.com/rspec/rspec-expectations
+d5c61a39a72e5aa1f1bc0aaa56de22d5369243f6		branch '2-7-maintenance' of https://github.com/rspec/rspec-expectations
+a48122f43472d56cfa74fd9f588ded1c43e60252		branch '2-9-maintenance' of https://github.com/rspec/rspec-expectations
+2401bd0b84df95e979edb4897f5705d21af42116		branch '2-99-maintenance' of https://github.com/rspec/rspec-expectations
+e9cf69075db699d2127c1c56f0430e312f58b581		branch '3-0-maintenance' of https://github.com/rspec/rspec-expectations
+9be207038dbf62ff63a7c372cd876e324cbb0d78		branch '3-1-maintenance' of https://github.com/rspec/rspec-expectations
+93c7e90eb20daef47ab85a9ccb1dad144a227c40		branch '3-2-maintenance' of https://github.com/rspec/rspec-expectations
+f7a745c1125e4a8b3bcc7d31be0c93b90f21e917		branch '3-3-maintenance' of https://github.com/rspec/rspec-expectations
+df87d895b1a34ea09b996e499640064311d2a5f7		branch '3-4-maintenance' of https://github.com/rspec/rspec-expectations
+9159d77e7f3ea70e8d4e6623e57c372ebcd127eb		branch '3-5-maintenance' of https://github.com/rspec/rspec-expectations
+94cc4bee6b67477b56f3bb754d7b85949a7e867b		branch '3-6-maintenance' of https://github.com/rspec/rspec-expectations
+5e82d9642d4b90bbea0b10c6cc25bca75e49fccf		branch '3-7-maintenance' of https://github.com/rspec/rspec-expectations
+56b1240f751f3e4247db596c7b5bcf74677fb157		branch '3-8-maintenance' of https://github.com/rspec/rspec-expectations
+6009c7c1366b635b46670657a8a657d0f8b0ca5b		branch '3-9-maintenance' of https://github.com/rspec/rspec-expectations
+c84175a964ab5b67651adc9e57bd3e5828fb8e66		branch 'autoload-benchmark' of https://github.com/rspec/rspec-expectations
+ac14fe4ea965ec6132bed9e23195de9fc3687491		branch 'autoload-matcher-classes' of https://github.com/rspec/rspec-expectations
+1de7871c4d75085951d5cb15fbf415dcec0ce1db		branch 'be_truthy_refinements_for_master' of https://github.com/rspec/rspec-expectations
+def7863abd24b630191d34b63e15da1040e7c752		branch 'brute-force-match-array' of https://github.com/rspec/rspec-expectations
+99d8efaf0c892bd8d10b1f5bcb38b79e9347358e		branch 'coveralls_tweaks' of https://github.com/rspec/rspec-expectations
+b956215a0d12d3b197a02b0dba6e473e0993817e		branch 'deprecate-not-to-raise-error-with-message' of https://github.com/rspec/rspec-expectations
+92f75d0aa473e68531cf24346bf951469dc7162f		branch 'deprecate-root-file' of https://github.com/rspec/rspec-expectations
+5182548b3619d41d302d045d380474cf7f3321d5		branch 'diffing' of https://github.com/rspec/rspec-expectations
+5373cb5f52a35b32a34babc660870f1b491d7f76		branch 'fix_travis' of https://github.com/rspec/rspec-expectations
+2c5c8cde7ff956803dd1a3aa1ae0d88cd9d2a1e1		branch 'improve-docs' of https://github.com/rspec/rspec-expectations
+4a919ab37d3642b7efa1a370f76afdc94fd3e336		branch 'issue_59' of https://github.com/rspec/rspec-expectations
+a9fbefa796f0650aaa6d9a6613627f3f3a1e7630		branch 'lukeredpath-fuzzy-include-matchers' of https://github.com/rspec/rspec-expectations
+c87ab72748d4467fe8f9d84fe0ab87f314b18f6c		branch 'master' of https://github.com/rspec/rspec-expectations
+cedf51d344be6e72daf31403f3d0480a60bb37f5		branch 'method_missing_fix' of https://github.com/rspec/rspec-expectations
+0e69857c8205e934cf3150edc63f2bf3dab9283f		branch 'method_missing_strangeness' of https://github.com/rspec/rspec-expectations
+7d4ffe76f23f3014100cbdcc3f6438207cbec6db		branch 'pin_diff_lcs' of https://github.com/rspec/rspec-expectations
+a5c6f4185a66e5b60ce9479ec64cbc07aa31e49b		branch 'pull-71' of https://github.com/rspec/rspec-expectations
+012671217de12b059fcdee65482a9d0a53b9b08b		branch 'rubinius-failure' of https://github.com/rspec/rspec-expectations
+40415208f437ef2b5714b10031d2964952daf0fb		branch 'samphippen/demonstrate-output-matcher-bug' of https://github.com/rspec/rspec-expectations
+06ab27eb846337208bcdc362b6728183cde12053		branch 'samphippen/fix-duplicate-include' of https://github.com/rspec/rspec-expectations
+8a190347656145f03227a5f87d99497e03d83583		branch 'spec_for_deprecaton_call_site' of https://github.com/rspec/rspec-expectations
+c6b35301a547b8bc257d9bba1d9494e1a232c289		branch 'travis-testing' of https://github.com/rspec/rspec-expectations
+f5954b0ee770b7415c06e19980b9bb52c507676a		branch 'update-generated-descriptions' of https://github.com/rspec/rspec-expectations
+3a24bad901a7f8f27ab71b36253ea97e14f84f56		branch 'update-travis-build-2-99' of https://github.com/rspec/rspec-expectations
+b5966abb9b221a7899f62c4fb37740a44c0336b6		branch 'update-travis-build-scripts-2019-10-17-for-master' of https://github.com/rspec/rspec-expectations
+ac30e0ba515eca326a01a7fa8f6b4f745f1f2072		branch 'use-require-relative' of https://github.com/rspec/rspec-expectations
+c219c26ca974db69b1e4244d0613b16539532993		branch 'yield_in_any_order' of https://github.com/rspec/rspec-expectations
+d020cfe51d0733821415d9a0036f583048cff41e		branch 'yield_matchers' of https://github.com/rspec/rspec-expectations
+baeb47870cd1b2c22d9c61f0475a664782bf7cf2	not-for-merge	tag '2.0.0.a2' of https://github.com/rspec/rspec-expectations
+75749c8764a8fbc283647b2fef7acea46ba6c30b	not-for-merge	tag '2.0.0.a3' of https://github.com/rspec/rspec-expectations
+54325dc77ca3a14d739ad3038911819fee079f69	not-for-merge	tag 'old_site' of https://github.com/rspec/rspec-expectations
+7a74f2054172b0963f3c3c6e24e256c1a3523cd4	not-for-merge	tag 'v0.0.0' of https://github.com/rspec/rspec-expectations
+f1abf357afe0eef7a665a30b3d3961b58caf3014	not-for-merge	tag 'v2.0.0' of https://github.com/rspec/rspec-expectations
+3967488aff822ff343e9c4b83b6d5a250c5c2c29	not-for-merge	tag 'v2.0.0.a1' of https://github.com/rspec/rspec-expectations
+75cdc9e582d683e5ab9cb917f4f45af4f387e30a	not-for-merge	tag 'v2.0.0.a10' of https://github.com/rspec/rspec-expectations
+15b0c97e04bd8fcbb5c4efe971f58eb4d7af679b	not-for-merge	tag 'v2.0.0.a4' of https://github.com/rspec/rspec-expectations
+dd3e92e51ce0572a35ec58999d507156ad223393	not-for-merge	tag 'v2.0.0.a5' of https://github.com/rspec/rspec-expectations
+6041ef7bc7195e86cdcc90b194d227da43afe126	not-for-merge	tag 'v2.0.0.a6' of https://github.com/rspec/rspec-expectations
+cec97d901c88c4a79e5f6b02d192aab80a94a541	not-for-merge	tag 'v2.0.0.a7' of https://github.com/rspec/rspec-expectations
+ade9ca993279c405f5ae4038100380444dd582d5	not-for-merge	tag 'v2.0.0.a8' of https://github.com/rspec/rspec-expectations
+3477b51ba517ac5318a559363484c0a8ecb8ceed	not-for-merge	tag 'v2.0.0.a9' of https://github.com/rspec/rspec-expectations
+70753a04c3ebe627791306cf8a57b44fd650e78c	not-for-merge	tag 'v2.0.0.beta.1' of https://github.com/rspec/rspec-expectations
+093a3f107efa96dd47f19a4ab75515fc70534f6c	not-for-merge	tag 'v2.0.0.beta.10' of https://github.com/rspec/rspec-expectations
+9485fd634432a8f712c3234b950a41e0b6d3bbaa	not-for-merge	tag 'v2.0.0.beta.11' of https://github.com/rspec/rspec-expectations
+0cdd882c1f43fcf8b25637705704895818713933	not-for-merge	tag 'v2.0.0.beta.12' of https://github.com/rspec/rspec-expectations
+0e391bb1058889b84d9a8939c7c9914942eaf8c1	not-for-merge	tag 'v2.0.0.beta.13' of https://github.com/rspec/rspec-expectations
+23e75646200df51324bdbe7b2ce42f69f06af298	not-for-merge	tag 'v2.0.0.beta.14' of https://github.com/rspec/rspec-expectations
+9434cf538c42badd4c8a27add59d39a26435f73a	not-for-merge	tag 'v2.0.0.beta.15' of https://github.com/rspec/rspec-expectations
+c3f2191f1e46f3ed9057ab851f3d8c44e0c83cb7	not-for-merge	tag 'v2.0.0.beta.16' of https://github.com/rspec/rspec-expectations
+fd91ab08fea7aa0bc735b8a2a2473b57458f83cd	not-for-merge	tag 'v2.0.0.beta.17' of https://github.com/rspec/rspec-expectations
+7205eaa44fc81761ef1b44a7d74617fa8d987fda	not-for-merge	tag 'v2.0.0.beta.18' of https://github.com/rspec/rspec-expectations
+b557c2ded9fd59d673aab88dbad10ed1f58643c1	not-for-merge	tag 'v2.0.0.beta.19' of https://github.com/rspec/rspec-expectations
+dba86d08546312eec4be992b88a2ef5c2efbdbb1	not-for-merge	tag 'v2.0.0.beta.2' of https://github.com/rspec/rspec-expectations
+6634a7c7cbafa5214ed053e68df5912922e709c0	not-for-merge	tag 'v2.0.0.beta.20' of https://github.com/rspec/rspec-expectations
+76b966725129313c96dae747c9236c2f1a777067	not-for-merge	tag 'v2.0.0.beta.21' of https://github.com/rspec/rspec-expectations
+311ba9140475ed5b5c8e74ecd83cbf5925a753ec	not-for-merge	tag 'v2.0.0.beta.22' of https://github.com/rspec/rspec-expectations
+8b85ca781e52a8a4f984d25b0a2f7c3d05a84115	not-for-merge	tag 'v2.0.0.beta.3' of https://github.com/rspec/rspec-expectations
+01f85f1169eab312df179f246273c52042c39611	not-for-merge	tag 'v2.0.0.beta.4' of https://github.com/rspec/rspec-expectations
+0cf547f5668da901ce022d7eae6e1b06e6cda724	not-for-merge	tag 'v2.0.0.beta.5' of https://github.com/rspec/rspec-expectations
+e534b858b1b1af7c347a9a83354343b6ace787f5	not-for-merge	tag 'v2.0.0.beta.6' of https://github.com/rspec/rspec-expectations
+e3c7069e63800bb5b79f2ad8ce9640659813e2d6	not-for-merge	tag 'v2.0.0.beta.7' of https://github.com/rspec/rspec-expectations
+e10d481adcb277c28ac8d7cad9e1d5301e2bdc70	not-for-merge	tag 'v2.0.0.beta.8' of https://github.com/rspec/rspec-expectations
+9262f11366b5fb4002260315f4df5a435b144c9c	not-for-merge	tag 'v2.0.0.beta.9' of https://github.com/rspec/rspec-expectations
+bf3fabb6f21f9e53a7a986e92fa9e1bb827199f8	not-for-merge	tag 'v2.0.0.rc' of https://github.com/rspec/rspec-expectations
+543b71e74a3e37120c56be1a5672bfc0c0c21322	not-for-merge	tag 'v2.0.1' of https://github.com/rspec/rspec-expectations
+25dd98482450af941151d0c3853a953e032eabf3	not-for-merge	tag 'v2.1.0' of https://github.com/rspec/rspec-expectations
+4f07b470556a5bb1ae79ab5b379ed54f92bda80c	not-for-merge	tag 'v2.10.0' of https://github.com/rspec/rspec-expectations
+94bb69f7c1bbffbd7dd8fd492895274d409f6dc9	not-for-merge	tag 'v2.11.0' of https://github.com/rspec/rspec-expectations
+e46165610f5401a03dca33c901f9cda9d6198393	not-for-merge	tag 'v2.11.1' of https://github.com/rspec/rspec-expectations
+a80fc3d9af399d56ce5d09cbc016e928058b2cd9	not-for-merge	tag 'v2.11.2' of https://github.com/rspec/rspec-expectations
+fbb5b8df1b3b1387c864bd1e22ed8f1d4c5cf80c	not-for-merge	tag 'v2.11.3' of https://github.com/rspec/rspec-expectations
+fd4d9ed1b1b9e09b3c488cbbc02930056ff9818b	not-for-merge	tag 'v2.12.0' of https://github.com/rspec/rspec-expectations
+5f05a9c306015ce3e4a0641e72a4d016058a02b0	not-for-merge	tag 'v2.12.1' of https://github.com/rspec/rspec-expectations
+4392cb030bf9c75b2e654279c9051f9b02f2c4a3	not-for-merge	tag 'v2.13.0' of https://github.com/rspec/rspec-expectations
+fe0a7def786b9b7284ffabf13a0b2a45363031f2	not-for-merge	tag 'v2.14.0' of https://github.com/rspec/rspec-expectations
+8cc293fabe185b8273d844478a6d0ec7a87fa2dc	not-for-merge	tag 'v2.14.0.rc1' of https://github.com/rspec/rspec-expectations
+b35866ee77be0727bed54e0ec9054053de7f5e24	not-for-merge	tag 'v2.14.1' of https://github.com/rspec/rspec-expectations
+3fc75653ab286da3904c6655263cc30bd50d7cf7	not-for-merge	tag 'v2.14.2' of https://github.com/rspec/rspec-expectations
+3c297e974fd73a38c82a9673fc53acb2e4ee42d4	not-for-merge	tag 'v2.14.3' of https://github.com/rspec/rspec-expectations
+b6d6825fdd26d57e564f9214157761f6d7f5c34d	not-for-merge	tag 'v2.14.4' of https://github.com/rspec/rspec-expectations
+b2287c78f16b6786b52547172407a88748c73f09	not-for-merge	tag 'v2.14.5' of https://github.com/rspec/rspec-expectations
+7117a5674ec0710f96e0d75c1094fa8a3854745e	not-for-merge	tag 'v2.2.0' of https://github.com/rspec/rspec-expectations
+c17c764ee93497f00717cffc76176b1b471b9d32	not-for-merge	tag 'v2.3.0' of https://github.com/rspec/rspec-expectations
+46e6a234b1429ccf5b30c066450f8e431625eafe	not-for-merge	tag 'v2.4.0' of https://github.com/rspec/rspec-expectations
+9e250c61624ee849713bd28d3d6786889239004d	not-for-merge	tag 'v2.5.0' of https://github.com/rspec/rspec-expectations
+c1a90d16deda1836c283192a1fd375c80c3f1537	not-for-merge	tag 'v2.6.0' of https://github.com/rspec/rspec-expectations
+30e0e4e719ad8dff3ea34fd4762b16372f57a256	not-for-merge	tag 'v2.6.0.rc1' of https://github.com/rspec/rspec-expectations
+37d612d4801ce73b0bfe04e1868a2f1161851330	not-for-merge	tag 'v2.6.0.rc2' of https://github.com/rspec/rspec-expectations
+f630c39c2481c4747dcebff60418ab345bb47282	not-for-merge	tag 'v2.6.0.rc3' of https://github.com/rspec/rspec-expectations
+6550856af4da87b5ca27a8e285946b6a961d300a	not-for-merge	tag 'v2.6.0.rc4' of https://github.com/rspec/rspec-expectations
+28add6e4e3338b32fea3fa028370f3a2557b0b67	not-for-merge	tag 'v2.6.0.rc5' of https://github.com/rspec/rspec-expectations
+da65571271251ea83af9dbc2f6e68924eebf88fd	not-for-merge	tag 'v2.6.0.rc6' of https://github.com/rspec/rspec-expectations
+6cf97b1cb385f33014f0de798a20eb21130a9799	not-for-merge	tag 'v2.7.0' of https://github.com/rspec/rspec-expectations
+771f91794181c936a1cd3e676a902454b204d396	not-for-merge	tag 'v2.7.0.rc1' of https://github.com/rspec/rspec-expectations
+d30b486871f0cd023c53e0d1034929651bc9c116	not-for-merge	tag 'v2.8.0' of https://github.com/rspec/rspec-expectations
+a0399abd08967f6b2abb419597da31bdc37dd8db	not-for-merge	tag 'v2.8.0.rc1' of https://github.com/rspec/rspec-expectations
+437b68be146259914df2938174fbbd2404dbadf4	not-for-merge	tag 'v2.8.0.rc2' of https://github.com/rspec/rspec-expectations
+a6a248f8904af3f865c758afbd23e976692e674d	not-for-merge	tag 'v2.9.0' of https://github.com/rspec/rspec-expectations
+22a53d3d5f654501f808ba0839d07b83f5350f0f	not-for-merge	tag 'v2.9.0.rc1' of https://github.com/rspec/rspec-expectations
+1e70e3a723965d4e4ed0500e87b078f80c5411ee	not-for-merge	tag 'v2.9.0.rc2' of https://github.com/rspec/rspec-expectations
+44ba6986924c01e0a343d28650f439fa891b9ebd	not-for-merge	tag 'v2.9.1' of https://github.com/rspec/rspec-expectations
+3be05f0a015ed2374da0176285f1380ec055b0a1	not-for-merge	tag 'v2.99.0' of https://github.com/rspec/rspec-expectations
+ae02c148527731a3c34bd8599411da9e66d1420d	not-for-merge	tag 'v2.99.0.beta1' of https://github.com/rspec/rspec-expectations
+98b95c55f5f645af0067dc181162260883bf4d5f	not-for-merge	tag 'v2.99.0.beta2' of https://github.com/rspec/rspec-expectations
+ef02a83057814e42aa13a9af556750c1b20c4881	not-for-merge	tag 'v2.99.0.rc1' of https://github.com/rspec/rspec-expectations
+ab1b4117acd818ed88a9b765c07371d6d9b74512	not-for-merge	tag 'v2.99.1' of https://github.com/rspec/rspec-expectations
+3e30bf3de9c6dcba4edf972c7151b56804aae161	not-for-merge	tag 'v2.99.2' of https://github.com/rspec/rspec-expectations
+976fb4c2f71ea3bfc03d9b8dcd3e4575d4a7f87e	not-for-merge	tag 'v3.0.0' of https://github.com/rspec/rspec-expectations
+401e6db3d92d0e460caba090f7612374ab110a9b	not-for-merge	tag 'v3.0.0.beta1' of https://github.com/rspec/rspec-expectations
+5ce53004932b99608c115e8f86973cc4ce21f7d9	not-for-merge	tag 'v3.0.0.beta2' of https://github.com/rspec/rspec-expectations
+c16738cc2574a789ec80f69d8dcfa4e4ad58b8af	not-for-merge	tag 'v3.0.0.rc1' of https://github.com/rspec/rspec-expectations
+f24039598d2b2c17528969f206182d7ec63b00e3	not-for-merge	tag 'v3.0.1' of https://github.com/rspec/rspec-expectations
+ec533c788fccb8879f53a598dd215069244039b7	not-for-merge	tag 'v3.0.2' of https://github.com/rspec/rspec-expectations
+67b9a986eb2795113d72cb66951a6277317b6b92	not-for-merge	tag 'v3.0.3' of https://github.com/rspec/rspec-expectations
+7eebb713e0464026684def71542c9cc6522f427d	not-for-merge	tag 'v3.0.4' of https://github.com/rspec/rspec-expectations
+8ef6d79c79dd2be71da44c196a59be086e5af171	not-for-merge	tag 'v3.1.0' of https://github.com/rspec/rspec-expectations
+5a44f4c28edde30b8b9b98c034961bd80c118179	not-for-merge	tag 'v3.1.1' of https://github.com/rspec/rspec-expectations
+262dbd1957d2855263c76e2f2dc3f4480783f853	not-for-merge	tag 'v3.1.2' of https://github.com/rspec/rspec-expectations
+c255607ba6eaf8557c6d4495323d0f160aca592f	not-for-merge	tag 'v3.2.0' of https://github.com/rspec/rspec-expectations
+c236048d3a4609dbbc105bd8b30dbf9b417cc724	not-for-merge	tag 'v3.2.1' of https://github.com/rspec/rspec-expectations
+f1fe49b804c9786a1b8d28237dbf7dc166fe5ff4	not-for-merge	tag 'v3.3.0' of https://github.com/rspec/rspec-expectations
+92b494deb9ed7b69c9acc8b5b970879511c03c4e	not-for-merge	tag 'v3.3.1' of https://github.com/rspec/rspec-expectations
+332751e88bcb32f46f840fe9f8bc4d64ba009542	not-for-merge	tag 'v3.4.0' of https://github.com/rspec/rspec-expectations
+6ced9b1ccfaa955df28c7e5c93e6b7219b367c3a	not-for-merge	tag 'v3.5.0' of https://github.com/rspec/rspec-expectations
+03032ea0e5b6e5374552f8ebc581ae20fce8079e	not-for-merge	tag 'v3.5.0.beta1' of https://github.com/rspec/rspec-expectations
+b726ea50a004c268060a300f8b5df881aa81bc49	not-for-merge	tag 'v3.5.0.beta2' of https://github.com/rspec/rspec-expectations
+c4d95ecd5449b3ee3330edd8c30d0427d3bd0289	not-for-merge	tag 'v3.5.0.beta3' of https://github.com/rspec/rspec-expectations
+62ebe4afd0428cc913cc8f574acef5b46cc3f287	not-for-merge	tag 'v3.5.0.beta4' of https://github.com/rspec/rspec-expectations
+df4df8452804fd367acd4babb25a01cf5b13efce	not-for-merge	tag 'v3.6.0' of https://github.com/rspec/rspec-expectations
+2af484c03ddcb02f1d44320871f4a6fedbb1be44	not-for-merge	tag 'v3.6.0.beta1' of https://github.com/rspec/rspec-expectations
+a4353efaf631cfbca2446cbdc2dccc8120c729ad	not-for-merge	tag 'v3.6.0.beta2' of https://github.com/rspec/rspec-expectations
+2c2cea3fe37c499d3269019937848aaa0392d872	not-for-merge	tag 'v3.7.0' of https://github.com/rspec/rspec-expectations
+5f5b709894feba68aa49bc29f513997228dd5a6b	not-for-merge	tag 'v3.8.0' of https://github.com/rspec/rspec-expectations
+32f62a9c4cf58a7dc3fb0efe31895e5e43f2a21a	not-for-merge	tag 'v3.8.1' of https://github.com/rspec/rspec-expectations
+4f0ebafc5003dc9e077d7d6da4569d9dcd3366be	not-for-merge	tag 'v3.8.2' of https://github.com/rspec/rspec-expectations
+aa5ffa9492cf47c3142379cfe6f994939c8c3d07	not-for-merge	tag 'v3.8.3' of https://github.com/rspec/rspec-expectations
+41609bd87655330057aa6214bf1004167da62cc7	not-for-merge	tag 'v3.8.4' of https://github.com/rspec/rspec-expectations
+819a7dcb61d1a3baa64feb0f6186a06f6804b518	not-for-merge	tag 'v3.8.5' of https://github.com/rspec/rspec-expectations
+c385f6d5fe3fd85afed02fb18d77df23f3569b6a	not-for-merge	tag 'v3.8.6' of https://github.com/rspec/rspec-expectations
+c8dcddfec7d599c8c782eae9e445577997d21023	not-for-merge	tag 'v3.9.0' of https://github.com/rspec/rspec-expectations
+f28507a9da364d01b1827d8541cb8f6edf8c593d	not-for-merge	tag 'v3.9.1' of https://github.com/rspec/rspec-expectations
+a3f133276e1aaf63cb33f12b1f62257621013694	not-for-merge	tag 'v3.9.2' of https://github.com/rspec/rspec-expectations

@@ -1,0 +1,178 @@
+4da3abbd4d3fd64c5fa2dd2192661e0dcb581b31		branch '136' of https://github.com/rspec/rspec-mocks
+50d205d73ca239a3e890fb4c1f72900bf4d3b57a		branch '2-0-stable' of https://github.com/rspec/rspec-mocks
+d0bcce439a6bf9b3245db3553ad5e82233f96634		branch '2-11-maintenance' of https://github.com/rspec/rspec-mocks
+1da31269314a744aa52b9b108107f95c0c258a3b		branch '2-13-maintenance' of https://github.com/rspec/rspec-mocks
+a143925cc47e271e68422148fccce313d1230c40		branch '2-14-maintenance' of https://github.com/rspec/rspec-mocks
+a7c0468dc04559477ce5ea293d762d5b03f695ac		branch '2-99-maintenance' of https://github.com/rspec/rspec-mocks
+164d7c97fbd2aa62cf7218728fc83683dd5c1090		branch '3-0-maintenance' of https://github.com/rspec/rspec-mocks
+6baf929ccf9d093128b9d91cafc53f9098549d6b		branch '3-1-maintenance' of https://github.com/rspec/rspec-mocks
+b33f825f11acb66e25ac643b66709726578432f6		branch '3-2-maintenance' of https://github.com/rspec/rspec-mocks
+be095229402db5c9ce265573d1bebae7a57b3740		branch '3-3-maintenance' of https://github.com/rspec/rspec-mocks
+eccadbeb5760f409423f4597eb60d45d2d3a8409		branch '3-4-maintenance' of https://github.com/rspec/rspec-mocks
+88a41041c0bf2caf80b89b7d2773e90b3f693edc		branch '3-5-maintenance' of https://github.com/rspec/rspec-mocks
+5f0ed73686412a712828d6eec74715fc2d751bb8		branch '3-6-maintenance' of https://github.com/rspec/rspec-mocks
+6a07c65a324c7d8347d32ff99b7061f5aa4e1270		branch '3-7-maintenance' of https://github.com/rspec/rspec-mocks
+0e1ac2f7bdf42d322547eaa7eb257c632062eb86		branch '3-8-maintenance' of https://github.com/rspec/rspec-mocks
+d7d70bed6bc0eaca8c05f3f5f09c7861b308c510		branch '3-9-maintenance' of https://github.com/rspec/rspec-mocks
+5f47242ba50a9d32a9de80444f84d07b68517261		branch 'Rub' of https://github.com/rspec/rspec-mocks
+b2204955f7c474fca4aaeb44f3438ec262f54a13		branch 'all_proxies_vs_current_proxies' of https://github.com/rspec/rspec-mocks
+4dba1ec1a14f58bbf6f46e14b656da35c3637452		branch 'allow_any_instance_sub_class_mocks' of https://github.com/rspec/rspec-mocks
+b9d4997b17edfc316c704a522b1f74be0e998bef		branch 'allow_mutation_with_have_received' of https://github.com/rspec/rspec-mocks
+03654bc142d1feb53e71f34f3b77148d911956b3		branch 'any_instance_nested_call_error' of https://github.com/rspec/rspec-mocks
+132f99c8ac343d84b11eac560bcad6ce9c65b007		branch 'block_implementation_after_multi_return_stub_error' of https://github.com/rspec/rspec-mocks
+63198c7c7c289e4885a3844908626e25f610de6a		branch 'demonstrate-710' of https://github.com/rspec/rspec-mocks
+d8369b75ec0a529a01cb4ee15be4aab69965ebd9		branch 'expect-syntax-features' of https://github.com/rspec/rspec-mocks
+842f10ec9656cbed1c2d49c1e0b845e0686a3dd7		branch 'expectation-count-with-args-bug' of https://github.com/rspec/rspec-mocks
+c7efa414e88c840fe4824cb011948cc1b3296d69		branch 'expose-issue-1016' of https://github.com/rspec/rspec-mocks
+25b0a9d4b042bbb6994d8ff9c0e7d8ddf0e1e424		branch 'expose_issue_with_mixed_in_class_stubs' of https://github.com/rspec/rspec-mocks
+e92ef08a3dcabc959e61f45710650d898aa11e2b		branch 'extract-received_count-into-a-module' of https://github.com/rspec/rspec-mocks
+b6110f44d089cee691eb809a5c3d40d8a91da75d		branch 'fix-rspec-core-issue-950' of https://github.com/rspec/rspec-mocks
+6903d2ef14ede06592dcc72cb790b406d55c3816		branch 'fix_confusing_error_message' of https://github.com/rspec/rspec-mocks
+e8f309a9898bf8c1af5a70c166a7238a6b90b680		branch 'fix_lambda_stub' of https://github.com/rspec/rspec-mocks
+d211ef04536a6baa0e376a412e0db97b6eb1d443		branch 'handle-kw-args' of https://github.com/rspec/rspec-mocks
+c28573b6608992aeddd6ca593471ca2c6a22b27b		branch 'interleaved-ordered-bug' of https://github.com/rspec/rspec-mocks
+3a804ff1df2d98baeb91650a1cbbd956086af966		branch 'issue-127' of https://github.com/rspec/rspec-mocks
+06b7763b37f9a4678ca165b41af639ade88fb8f7		branch 'issue-219' of https://github.com/rspec/rspec-mocks
+c0ee734abf839f63476439989757836b8966ee56		branch 'issue-230' of https://github.com/rspec/rspec-mocks
+5f0506e0e1842bafbbacfa87813cd7d2b3bb059d		branch 'issue-230-for-2-13' of https://github.com/rspec/rspec-mocks
+fe27fe233cae0320759c18a0b96a57a74a01ceb7		branch 'issue-96' of https://github.com/rspec/rspec-mocks
+9ef51ade82e7d24629af07176bb52df175c700d3		branch 'issue_336_wip' of https://github.com/rspec/rspec-mocks
+d1cd1ed2480029ca9b4cd68efa832299a1cd05db		branch 'issue_393' of https://github.com/rspec/rspec-mocks
+96feb55daf7488a0d7acbf0cbf013d3a2585a557		branch 'kaiwren-with-a-block' of https://github.com/rspec/rspec-mocks
+1728885f65b25a9676c5ce54133ef8a1283e2e0d		branch 'master' of https://github.com/rspec/rspec-mocks
+a1878f3d6439b948d038fff2ca48d6430788751d		branch 'pin_diff_lcs' of https://github.com/rspec/rspec-mocks
+e03b58d3b6cca3261c41dfd00b4d75602e5dc113		branch 'refactor' of https://github.com/rspec/rspec-mocks
+45362bd198bd3cbcd25d1e08c36c2e40ec74e9b4		branch 'refined_mocks' of https://github.com/rspec/rspec-mocks
+1a7e9232cf93a97beaa6fb247d89606b83d3b504		branch 'samphippen/demonstrate-1077' of https://github.com/rspec/rspec-mocks
+8985b8c945c8d650a969309f273056115a105784		branch 'samphippen/feature/any_args_consumer' of https://github.com/rspec/rspec-mocks
+70a2aeaf4c79e32d0a12a03c76e5df6464457264		branch 'show_error_with_prepend_any_instance' of https://github.com/rspec/rspec-mocks
+2d0bd4371ab9878a9854aa43f39ca73ea9719f71		branch 'switch_to_reverse_each' of https://github.com/rspec/rspec-mocks
+b14e10d33936711d8b7d91d4fccd779444411d2c		branch 'test-against-other-gems' of https://github.com/rspec/rspec-mocks
+c4bda5b19846ff4d372ce33e65141b64d4a0361e		branch 'update-travis-build-2-99' of https://github.com/rspec/rspec-mocks
+5d1c328052df409b44023a53c9b3c40c439631df	not-for-merge	tag '2.0.0.a2' of https://github.com/rspec/rspec-mocks
+51238ef7a263b220325a35ad8dbc0e60bf2a9285	not-for-merge	tag '2.0.0.a3' of https://github.com/rspec/rspec-mocks
+efad858c878976ba6d9c01e6b1e55e636555d243	not-for-merge	tag 'v0.0.0' of https://github.com/rspec/rspec-mocks
+638963ec9d9feb83c286ef66b57a3528c6235af3	not-for-merge	tag 'v2.0.0' of https://github.com/rspec/rspec-mocks
+b13548919ac57105830a87074b258f0bfd22395e	not-for-merge	tag 'v2.0.0.a1' of https://github.com/rspec/rspec-mocks
+40bbc9736e889c8f4a893b4122f1d1662f990530	not-for-merge	tag 'v2.0.0.a10' of https://github.com/rspec/rspec-mocks
+beccbdc2df958be08dcbd29a1c76df1704d9e3f2	not-for-merge	tag 'v2.0.0.a4' of https://github.com/rspec/rspec-mocks
+13f662a58761df137afac13eed63c4b9d806a397	not-for-merge	tag 'v2.0.0.a5' of https://github.com/rspec/rspec-mocks
+cf8a1a1ebcdda07db4f296eb3fd0fe016e4356b3	not-for-merge	tag 'v2.0.0.a6' of https://github.com/rspec/rspec-mocks
+4b8030c0c2f2b86894085995eb0330ce0b179b72	not-for-merge	tag 'v2.0.0.a7' of https://github.com/rspec/rspec-mocks
+3c42af6f9e10b685c8276408696b6c71ad6b7d30	not-for-merge	tag 'v2.0.0.a8' of https://github.com/rspec/rspec-mocks
+cbe7500ec81090a8598cb35dddd6e4bab45ab90c	not-for-merge	tag 'v2.0.0.a9' of https://github.com/rspec/rspec-mocks
+b2e828d9446e32b90b1317da9731c7f118e94e7d	not-for-merge	tag 'v2.0.0.beta.1' of https://github.com/rspec/rspec-mocks
+9a56fb7d293b8a0421a40985ee1ad3aa7b226497	not-for-merge	tag 'v2.0.0.beta.10' of https://github.com/rspec/rspec-mocks
+62fbeb032e17cafe38eb64f5d6b2399b715802a0	not-for-merge	tag 'v2.0.0.beta.11' of https://github.com/rspec/rspec-mocks
+f71462878ed6ce9e40a10928885dec3516f7a6eb	not-for-merge	tag 'v2.0.0.beta.12' of https://github.com/rspec/rspec-mocks
+bc5448d5a5c198876ffd1b4e11d4d870a35fb251	not-for-merge	tag 'v2.0.0.beta.13' of https://github.com/rspec/rspec-mocks
+111f0af22ad301b8ab6e03bb339fbe419a4453ea	not-for-merge	tag 'v2.0.0.beta.14' of https://github.com/rspec/rspec-mocks
+9ee36b0fcefdf04e072218ad9b190abec55f7a87	not-for-merge	tag 'v2.0.0.beta.15' of https://github.com/rspec/rspec-mocks
+7bc9a4c4550be75e11a3f5d97cd8d801c6bc7d1a	not-for-merge	tag 'v2.0.0.beta.16' of https://github.com/rspec/rspec-mocks
+2a724c558e10e669a856b1225d9f202ae7a7f389	not-for-merge	tag 'v2.0.0.beta.17' of https://github.com/rspec/rspec-mocks
+97b75cb8152953e795dc063de3c22992176da0bc	not-for-merge	tag 'v2.0.0.beta.18' of https://github.com/rspec/rspec-mocks
+06c7be8a331213e4f41741064035fe7a09a40009	not-for-merge	tag 'v2.0.0.beta.19' of https://github.com/rspec/rspec-mocks
+664f96962b541dab1c7f1cbb5fc72e2d6870b1df	not-for-merge	tag 'v2.0.0.beta.2' of https://github.com/rspec/rspec-mocks
+f0fdfca3f1695eb7618e3c560911ee5cce154065	not-for-merge	tag 'v2.0.0.beta.20' of https://github.com/rspec/rspec-mocks
+56323d98acd146cb99befa1f27cd5bbdb3aca412	not-for-merge	tag 'v2.0.0.beta.21' of https://github.com/rspec/rspec-mocks
+07bc53f1ff5e5e858f992f63893df590d0e3d554	not-for-merge	tag 'v2.0.0.beta.22' of https://github.com/rspec/rspec-mocks
+60e5302bf32a68b17e5ebc9d12a19db1f5ca8fed	not-for-merge	tag 'v2.0.0.beta.3' of https://github.com/rspec/rspec-mocks
+71a45b77f573bb0affe637bc5c9c657a86c62ca8	not-for-merge	tag 'v2.0.0.beta.4' of https://github.com/rspec/rspec-mocks
+cf0bc5146fe7b6ad1153b0e5848ac65a68cea1c5	not-for-merge	tag 'v2.0.0.beta.5' of https://github.com/rspec/rspec-mocks
+57f21a2207ddff9b7480b9adcab7e7bbdeb45021	not-for-merge	tag 'v2.0.0.beta.6' of https://github.com/rspec/rspec-mocks
+89b474e52519f38af187eba7f454dba2c98183e2	not-for-merge	tag 'v2.0.0.beta.7' of https://github.com/rspec/rspec-mocks
+f191c9072ec39614f4250543c909d9c3a7269e8b	not-for-merge	tag 'v2.0.0.beta.8' of https://github.com/rspec/rspec-mocks
+d609a33d2235f05006f214f9855aa9addc51a3c7	not-for-merge	tag 'v2.0.0.beta.9' of https://github.com/rspec/rspec-mocks
+7185cf57cf727d451ed42e4f28023f7cf67df4a9	not-for-merge	tag 'v2.0.0.rc' of https://github.com/rspec/rspec-mocks
+8eee0ec37d0ccfb4c03537df9969f4108f39a98b	not-for-merge	tag 'v2.0.1' of https://github.com/rspec/rspec-mocks
+75c04321736c39e9424842f3222f3bb6d6844d82	not-for-merge	tag 'v2.1.0' of https://github.com/rspec/rspec-mocks
+a2480e99f7f2aa84eeeb2d00b3aab305abd73fd1	not-for-merge	tag 'v2.10.0' of https://github.com/rspec/rspec-mocks
+dfffb3ce1104925d775c01521e993fc9957ed9e1	not-for-merge	tag 'v2.10.1' of https://github.com/rspec/rspec-mocks
+58aae589b7d4c544d86d0fd87e8aed724fe8e7c9	not-for-merge	tag 'v2.11.0' of https://github.com/rspec/rspec-mocks
+da012cc0e2ad23e16bf40306c99190ed8b5f71fd	not-for-merge	tag 'v2.11.1' of https://github.com/rspec/rspec-mocks
+1e5dbe2fc76e1401484986e4d7c32bb0b5ae3950	not-for-merge	tag 'v2.11.2' of https://github.com/rspec/rspec-mocks
+fc9fce34d80333f11a33c7cb461c15727b99f91c	not-for-merge	tag 'v2.11.3' of https://github.com/rspec/rspec-mocks
+88063fc1baab049bb5eca8fda6ed42836afdc8ce	not-for-merge	tag 'v2.12.0' of https://github.com/rspec/rspec-mocks
+89875eae3775152a1160b030b5cb896917b75c2c	not-for-merge	tag 'v2.12.1' of https://github.com/rspec/rspec-mocks
+865ac71a1d034e61d9339acc500bb78386951ace	not-for-merge	tag 'v2.12.2' of https://github.com/rspec/rspec-mocks
+b054304482b9e7c2ebdb8cb390078df892acdd0a	not-for-merge	tag 'v2.13.0' of https://github.com/rspec/rspec-mocks
+fe4cc0dc4ec8c2697f9ab83297775e07128b7898	not-for-merge	tag 'v2.13.1' of https://github.com/rspec/rspec-mocks
+ff88f53b651ae3125115b168eb374175a05e5fe6	not-for-merge	tag 'v2.14.0' of https://github.com/rspec/rspec-mocks
+1d5d928407c8fb6348f8386ecf78f1aa5e770092	not-for-merge	tag 'v2.14.0.rc1' of https://github.com/rspec/rspec-mocks
+05248f479ad5d5c437160e92027338ce43595c01	not-for-merge	tag 'v2.14.1' of https://github.com/rspec/rspec-mocks
+f13bb846c5e18a6383da60c077f40741c0d2eb2c	not-for-merge	tag 'v2.14.2' of https://github.com/rspec/rspec-mocks
+f7fb63bac290c09bb1c403b396ba1e64c5dd9fe8	not-for-merge	tag 'v2.14.3' of https://github.com/rspec/rspec-mocks
+79966ede6dfab43ceb03a42c2da9fe7c8e6fe0ff	not-for-merge	tag 'v2.14.4' of https://github.com/rspec/rspec-mocks
+c09d9ce0ef81fe54678d9d1ff972f1fd2b963657	not-for-merge	tag 'v2.14.5' of https://github.com/rspec/rspec-mocks
+f9b153f8093639db42d9f9f827293aba57f75774	not-for-merge	tag 'v2.14.6' of https://github.com/rspec/rspec-mocks
+7cd1c8a7638e040b87876b1104b08db8292f71a5	not-for-merge	tag 'v2.2.0' of https://github.com/rspec/rspec-mocks
+ac2f6e8bf53bf69706c57788173041eac6d7f1ad	not-for-merge	tag 'v2.2.1' of https://github.com/rspec/rspec-mocks
+a3bf0c2964a895d8fe1eab3b6d5722b4f97ac2f8	not-for-merge	tag 'v2.3.0' of https://github.com/rspec/rspec-mocks
+183c21dd3da7697846d9503443771f827847968a	not-for-merge	tag 'v2.3.1' of https://github.com/rspec/rspec-mocks
+58ede1b67bc92583edde1900966519eebd6b32af	not-for-merge	tag 'v2.4.0' of https://github.com/rspec/rspec-mocks
+3ef61337d11cf6fbe763ca92c1f5cb466cf50712	not-for-merge	tag 'v2.5.0' of https://github.com/rspec/rspec-mocks
+3d00add9a20204331c5814a5661d4599b0183fe9	not-for-merge	tag 'v2.5.1' of https://github.com/rspec/rspec-mocks
+4700de332946435cb26ddce68fb4189216af1682	not-for-merge	tag 'v2.5.2' of https://github.com/rspec/rspec-mocks
+de3399b6902a8a1d13466593383e79d048c4671e	not-for-merge	tag 'v2.6.0' of https://github.com/rspec/rspec-mocks
+dfc8372031f614d6f6b8019a1f9eef21e0ed9c5e	not-for-merge	tag 'v2.6.0.rc1' of https://github.com/rspec/rspec-mocks
+bd69bec2dd4d6e064fa9534e681f3d728ee90c4b	not-for-merge	tag 'v2.6.0.rc2' of https://github.com/rspec/rspec-mocks
+3a19af3886f74f82b4b854b57e1d091504d0276e	not-for-merge	tag 'v2.6.0.rc3' of https://github.com/rspec/rspec-mocks
+98143e002692826810870ba3890f0f83054a485b	not-for-merge	tag 'v2.6.0.rc4' of https://github.com/rspec/rspec-mocks
+ff60019a2fe5f358cb9339887a31de0c624c004b	not-for-merge	tag 'v2.6.0.rc5' of https://github.com/rspec/rspec-mocks
+70efb5213f1e6d59ad2ae8a87d2f6b4e90b34a03	not-for-merge	tag 'v2.6.0.rc6' of https://github.com/rspec/rspec-mocks
+b61e1131b0af347d9e07360cfd5e41ed4cd3839c	not-for-merge	tag 'v2.6.1' of https://github.com/rspec/rspec-mocks
+197323c2d6076a50a9a0ac6cb71e1885482fcb90	not-for-merge	tag 'v2.6.2' of https://github.com/rspec/rspec-mocks
+1bc52cddd28581993c21ba78e3cf4851bd09a349	not-for-merge	tag 'v2.6.2.rc' of https://github.com/rspec/rspec-mocks
+c7380c12d5a9e2db99dae065f9531d718e7e858c	not-for-merge	tag 'v2.6.3' of https://github.com/rspec/rspec-mocks
+0bff7b425cb1b57b861f25b6a46329562fe10adc	not-for-merge	tag 'v2.6.3.beta1' of https://github.com/rspec/rspec-mocks
+0eb470631d718f6f64ae6540d97bf65a265121f7	not-for-merge	tag 'v2.6.4' of https://github.com/rspec/rspec-mocks
+8996b522d16b3062df7eb63f8549aee831dc00c7	not-for-merge	tag 'v2.7.0' of https://github.com/rspec/rspec-mocks
+3983b4db755fabdfd52192863c6d1d3269001253	not-for-merge	tag 'v2.7.0.rc1' of https://github.com/rspec/rspec-mocks
+08266d90740bc2c43ebe9be512630b337919ad18	not-for-merge	tag 'v2.7.1' of https://github.com/rspec/rspec-mocks
+0abb8ae89b3645a50aa85ea1221886104b8087f5	not-for-merge	tag 'v2.8.0' of https://github.com/rspec/rspec-mocks
+cca7c740053081a08552e8ac1fa0b30e88bcb7dd	not-for-merge	tag 'v2.8.0.rc1' of https://github.com/rspec/rspec-mocks
+e7f43c58a12c9684a681a35800ab00bd07f880e6	not-for-merge	tag 'v2.8.0.rc2' of https://github.com/rspec/rspec-mocks
+c51d6d460e1aed3af7270ef3c3a4cc045f38ae2e	not-for-merge	tag 'v2.9.0' of https://github.com/rspec/rspec-mocks
+b650861cf870548a6244562c1967ba6e31b5dbe4	not-for-merge	tag 'v2.9.0.rc1' of https://github.com/rspec/rspec-mocks
+4a8de7550b0f52235bfdd789df368db26e022bc4	not-for-merge	tag 'v2.9.0.rc2' of https://github.com/rspec/rspec-mocks
+502b7dee3bb0316ed2e306fce7508ac143437a8d	not-for-merge	tag 'v2.99.0' of https://github.com/rspec/rspec-mocks
+f88c7973cd4571dd930b6595ae053dd44cc9fa10	not-for-merge	tag 'v2.99.0.beta1' of https://github.com/rspec/rspec-mocks
+d3fd97247090edcdc8939a49164c01e841e622ab	not-for-merge	tag 'v2.99.0.beta2' of https://github.com/rspec/rspec-mocks
+2d714a49458a9964d05731b9fee7e0ff729f688d	not-for-merge	tag 'v2.99.0.rc1' of https://github.com/rspec/rspec-mocks
+33c3fc6b51ba136d9a8d96f420c2ce72620f158d	not-for-merge	tag 'v2.99.1' of https://github.com/rspec/rspec-mocks
+1234cec7640c1c7ae8640ebfa2184ddf5af5f3f0	not-for-merge	tag 'v2.99.2' of https://github.com/rspec/rspec-mocks
+80f48fe90edd5a06a5aa727953ab61eebffc839d	not-for-merge	tag 'v2.99.3' of https://github.com/rspec/rspec-mocks
+7eb1e0dfc993fabb6efc5ef6cb285ca81d7c0a46	not-for-merge	tag 'v2.99.4' of https://github.com/rspec/rspec-mocks
+592ca023acbb6a9f9635b039e545761618ba5aaa	not-for-merge	tag 'v3.0.0' of https://github.com/rspec/rspec-mocks
+f2cc200f43ef588c2937527015b654e0e5c9c753	not-for-merge	tag 'v3.0.0.beta1' of https://github.com/rspec/rspec-mocks
+cc624c38a2ea9958d2f43f906b1d6fcf14b602ae	not-for-merge	tag 'v3.0.0.beta2' of https://github.com/rspec/rspec-mocks
+1aae2f88afde979691fa30c9785c6fbb283a312b	not-for-merge	tag 'v3.0.0.rc1' of https://github.com/rspec/rspec-mocks
+d0e4b88471d6f10d83fc49d5341a9b1348fae8a8	not-for-merge	tag 'v3.0.1' of https://github.com/rspec/rspec-mocks
+a3246e150ecc50d10beb7a3ace05a811f15b8735	not-for-merge	tag 'v3.0.2' of https://github.com/rspec/rspec-mocks
+1a86af4e5ba5e44c39c390053f934443cf000064	not-for-merge	tag 'v3.0.3' of https://github.com/rspec/rspec-mocks
+fbd8c35e78eb8ee8e0b7e13cf2649314bd69aa82	not-for-merge	tag 'v3.0.4' of https://github.com/rspec/rspec-mocks
+a822486e1e37b7288f823b794febf2dc15e3ad05	not-for-merge	tag 'v3.1.0' of https://github.com/rspec/rspec-mocks
+505dd87d45edc872c7d659ce224b1aa12bbfe31e	not-for-merge	tag 'v3.1.1' of https://github.com/rspec/rspec-mocks
+820efe5187d182ab2eea0c3137578fe92c058148	not-for-merge	tag 'v3.1.2' of https://github.com/rspec/rspec-mocks
+a370cb35e45c4ad8f3af9d6e78365285d3818d06	not-for-merge	tag 'v3.1.3' of https://github.com/rspec/rspec-mocks
+eedf93c59680ff83c99c59170a00eabb59533e46	not-for-merge	tag 'v3.2.0' of https://github.com/rspec/rspec-mocks
+63a5271183adcfb58239624f70fe9c4a8c6d9958	not-for-merge	tag 'v3.2.1' of https://github.com/rspec/rspec-mocks
+6fe1e6d9e4c3e17a965e4c257e78d7963c946242	not-for-merge	tag 'v3.3.0' of https://github.com/rspec/rspec-mocks
+ec4d7492257325a911c05e714fbd1d9dba060fe1	not-for-merge	tag 'v3.3.1' of https://github.com/rspec/rspec-mocks
+17b918de91c8f93d700687eb2d9bae884a7ca7cb	not-for-merge	tag 'v3.3.2' of https://github.com/rspec/rspec-mocks
+0124b8e11451f3fd4fd566453a8ddc3406be732f	not-for-merge	tag 'v3.4.0' of https://github.com/rspec/rspec-mocks
+c6a9068f1db8461f500ad9441c64958708d0384e	not-for-merge	tag 'v3.4.1' of https://github.com/rspec/rspec-mocks
+96bace0e3a76eafe46b647d2bde8e72ebd363ab6	not-for-merge	tag 'v3.5.0' of https://github.com/rspec/rspec-mocks
+2024b6fa81aff641c6eebb276e33cd0f419daad7	not-for-merge	tag 'v3.5.0.beta1' of https://github.com/rspec/rspec-mocks
+6f6e49acf0a7067a90bb2be4d82cffc51788c584	not-for-merge	tag 'v3.5.0.beta2' of https://github.com/rspec/rspec-mocks
+824a7c1ef2732e6e58f5e9545f4b615a91ae84d5	not-for-merge	tag 'v3.5.0.beta3' of https://github.com/rspec/rspec-mocks
+f1451d334ea963c931ce76352727632f83f05bdd	not-for-merge	tag 'v3.5.0.beta4' of https://github.com/rspec/rspec-mocks
+1dba3193d99a415b182a4488326f06dcade6fe8d	not-for-merge	tag 'v3.6.0' of https://github.com/rspec/rspec-mocks
+6147ef6fd27d65e01e6a7e5c5238ebd8a3261af8	not-for-merge	tag 'v3.6.0.beta1' of https://github.com/rspec/rspec-mocks
+fb61e25d1e92b3feb52cb082c0c05e02d2bf82f7	not-for-merge	tag 'v3.6.0.beta2' of https://github.com/rspec/rspec-mocks
+560e9a25936397f89a48d57bcf7b5891410f4698	not-for-merge	tag 'v3.7.0' of https://github.com/rspec/rspec-mocks
+c5a4842f4169ff6a96ec97010c3992a91cb11212	not-for-merge	tag 'v3.8.0' of https://github.com/rspec/rspec-mocks
+1c3c88345244e11951d9be9c2440a4f736c3d3c3	not-for-merge	tag 'v3.8.1' of https://github.com/rspec/rspec-mocks
+ebd4a9a57e693267c9fbd46cddfaaa96d547e095	not-for-merge	tag 'v3.8.2' of https://github.com/rspec/rspec-mocks
+228b709f9d7f3f1e6eec22beb05de4292cd8cd34	not-for-merge	tag 'v3.9.0' of https://github.com/rspec/rspec-mocks
+f17a188e17a7edc6b56a77cc26d882a43fdd1cd1	not-for-merge	tag 'v3.9.1' of https://github.com/rspec/rspec-mocks
