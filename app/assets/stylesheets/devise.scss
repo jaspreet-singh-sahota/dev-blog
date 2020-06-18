@@ -42,4 +42,17 @@
   color: #fe6001;
 }
 
+#error_explanation {
+  width: auto !important;
+}
 
+#error_explanation h2 {
+  display: none;
+}
+
+div #error_explanation ul li {
+  font-size: 22px;
+  list-style: none;
+  padding-top: 10px;
+  margin-left: 15px;
+}
