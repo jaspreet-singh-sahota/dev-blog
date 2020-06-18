@@ -2,30 +2,34 @@
  * imperfect */
 
 html { max-width: 960px; margin: 0 auto; }
+
 body {
   font: 14px "Helvetica Neue", Helvetica, Tahoma, sans-serif;
 }
+
 body.file-popup {
   font-size: 90%;
   margin-left: 0;
 }
 
 h1 {
-  color: #4183C4;
+  color: #4183c4;
 }
 
 :link,
 :visited {
-  color: #4183C4;
+  color: #4183c4;
   text-decoration: none;
 }
+
 :link:hover,
 :visited:hover {
-  border-bottom: 1px dotted #4183C4;
+  border-bottom: 1px dotted #4183c4;
 }
 
-pre, pre.description {
-  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+pre,
+pre.description {
+  font: 12px Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
   padding: 1em;
   overflow: auto;
   line-height: 1.4;
@@ -68,6 +72,7 @@ pre, pre.description {
   line-height: 160%;
   list-style: none;
 }
+
 .indexpage ul :link,
 .indexpage ul :visited {
   font-size: 16px;
@@ -80,21 +85,27 @@ pre, pre.description {
 .indexpage ul > li {
   background: url(images/bullet_black.png) no-repeat left 4px;
 }
+
 .indexpage li.method {
   background: url(images/plugin.png) no-repeat left 4px;
 }
+
 .indexpage li.module {
   background: url(images/package.png) no-repeat left 4px;
 }
+
 .indexpage li.class {
   background: url(images/ruby.png) no-repeat left 4px;
 }
+
 .indexpage li.file {
   background: url(images/page_white_text.png) no-repeat left 4px;
 }
+
 .indexpage li li {
   background: url(images/tag_blue.png) no-repeat left 4px;
 }
+
 .indexpage li .toc-toggle {
   width: 16px;
   height: 16px;
@@ -109,13 +120,18 @@ pre, pre.description {
 
 /* @group Top-Level Structure */
 
-.project-section, #file-metadata, #class-metadata {
+.project-section,
+#file-metadata,
+#class-metadata {
   display: block;
   background: #f5f5f5;
   margin-bottom: 1em;
   padding: 0.5em;
 }
-.project-section h3, #file-metadata h3, #class-metadata h3 {
+
+.project-section h3,
+#file-metadata h3,
+#class-metadata h3 {
   margin: 0;
 }
 
@@ -141,7 +157,7 @@ pre, pre.description {
 #metadata ul,
 #metadata dl,
 #metadata p {
-  padding: 0px;
+  padding: 0;
   list-style: none;
 }
 
@@ -149,6 +165,7 @@ dl.svninfo {
   color: #666;
   margin: 0;
 }
+
 dl.svninfo dt {
   font-weight: bold;
 }
@@ -156,6 +173,7 @@ dl.svninfo dt {
 ul.link-list li {
   white-space: nowrap;
 }
+
 ul.link-list .type {
   font-size: 8px;
   text-transform: uppercase;
@@ -175,6 +193,7 @@ ul.link-list .type {
   margin: 8px 1.5em;
   border: 1px solid #ccc;
 }
+
 .description .label-list {
   font-size: 14px;
 }
@@ -182,6 +201,7 @@ ul.link-list .type {
 .note-list dt {
   font-weight: bold;
 }
+
 .note-list dd {
 }
 
@@ -189,8 +209,10 @@ ul.link-list .type {
   font-weight: bold;
   background: #ddd;
 }
+
 .label-list dd {
 }
+
 .label-list dd + dt,
 .note-list dd + dt {
   margin-top: 0.7em;
@@ -208,6 +230,7 @@ ul.link-list .type {
 .documentation-section-title {
   position: relative;
 }
+
 .documentation-section-title .section-click-top {
   position: absolute;
   top: 6px;
@@ -230,16 +253,19 @@ ul.link-list .type {
   margin: 1em 0 2em;
   border: 0;
 }
+
 #constants-list > dl dt,
 #attributes-list > dl dt {
   font-weight: bold;
   font-family: Monaco, "Andale Mono";
   background: inherit;
 }
+
 #constants-list > dl dt a,
 #attributes-list > dl dt a {
   color: inherit;
 }
+
 #constants-list > dl dd,
 #attributes-list > dl dd {
   margin: 0 0 1em 0;
@@ -273,9 +299,11 @@ ul.link-list .type {
   margin: 0.2em 0.2em;
   padding: 0.5em;
 }
+
 #documentation .method-detail:hover {
   background-color: #f5f5f5;
 }
+
 #documentation .method-heading {
   cursor: pointer;
   position: relative;
@@ -286,10 +314,12 @@ ul.link-list .type {
   background: url(images/brick.png) no-repeat left bottom;
   padding-left: 20px;
 }
+
 #documentation .method-heading :link,
 #documentation .method-heading :visited {
   color: inherit;
 }
+
 #documentation .method-click-advice {
   position: absolute;
   right: 5px;
@@ -300,6 +330,7 @@ ul.link-list .type {
   padding-right: 20px;
   overflow: show;
 }
+
 #documentation .method-heading:hover .method-click-advice {
   visibility: visible;
 }
@@ -324,9 +355,11 @@ ul.link-list .type {
   font-style: italic;
   cursor: default;
 }
+
 #documentation .method-description p {
   margin-bottom: 0.5em;
 }
+
 #documentation .method-description ul {
   margin-left: 1.5em;
 }
@@ -334,10 +367,12 @@ ul.link-list .type {
 #documentation .attribute-method-heading {
   background: url(images/tag_green.png) no-repeat left bottom;
 }
+
 #documentation #attribute-method-details .method-detail:hover {
   background-color: transparent;
   cursor: default;
 }
+
 #documentation .attribute-access-type {
   font-size: 60%;
   text-transform: uppercase;
@@ -350,22 +385,21 @@ ul.link-list .type {
 
 /* @group Source Code */
 
-.ruby-constant .ruby-keyword .ruby-ivar .ruby-operator .ruby-identifier
-.ruby-node .ruby-comment .ruby-regexp .ruby-value {
+.ruby-constant .ruby-keyword .ruby-ivar .ruby-operator .ruby-identifier .ruby-node .ruby-comment .ruby-regexp .ruby-value {
   background: transparent;
 }
 
 /* Thanks GitHub!!! */
-.ruby-constant   { color: #458; font-weight: bold; }
-.ruby-keyword    { color: black; font-weight: bold; }
-.ruby-ivar       { color: teal; }
-.ruby-operator   { color: #000; }
+.ruby-constant { color: #458; font-weight: bold; }
+.ruby-keyword { color: black; font-weight: bold; }
+.ruby-ivar { color: teal; }
+.ruby-operator { color: #000; }
 .ruby-identifier { color: black; }
-.ruby-node       { color: red; }
-.ruby-comment    { color: #998; font-weight: bold; }
-.ruby-regexp     { color: #009926; }
-.ruby-value      { color: #099; }
-.ruby-string     { color: red; }
+.ruby-node { color: red; }
+.ruby-comment { color: #998; font-weight: bold; }
+.ruby-regexp { color: #009926; }
+.ruby-value { color: #099; }
+.ruby-string { color: red; }
 
 /* @group search results */
 

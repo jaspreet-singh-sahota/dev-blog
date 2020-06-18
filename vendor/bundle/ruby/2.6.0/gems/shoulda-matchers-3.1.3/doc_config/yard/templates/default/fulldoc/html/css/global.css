@@ -5,27 +5,48 @@ body {
   line-height: 1.5;
 }
 
-a, a:hover {
+a,
+a:hover {
   color: #136cc6;
 }
 
-h1, h2, h3, h4, h5, h6, p, pre {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre {
   margin-bottom: 1em;
   margin-top: 0;
 }
 
-h1, h2, h3, h4, h5, h6, body {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 800;
 }
 
-pre, tt, code {
-  background: #FFFBF4;
+pre,
+tt,
+code {
+  background: #fffbf4;
   border-radius: 3px;
-  border: 1px solid rgba(0,0,0,0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
   font-family: "Droid Sans Mono", monospace;
   font-size: 13px;
 }
@@ -34,17 +55,20 @@ pre code {
   border: none;
 }
 
-tt, code {
+tt,
+code {
   color: black;
   padding: 0 4px;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 1em;
   padding-left: 1em;
 }
 
-p, blockquote {
+p,
+blockquote {
   margin-bottom: 1.25em;
 }
 

@@ -23,7 +23,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
-gem 'carrierwave'  
+gem 'carrierwave' 
+gem 'rubocop', '~> 0.83.0', require: false
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

@@ -3,7 +3,7 @@
 }
 
 .btn-background-color {
-  background: linear-gradient(to right, #FDA10E 0%, #FF6C0D 100%) !important;
+  background: linear-gradient(to right, #fda10e 0%, #ff6c0d 100%) !important;
 }
 
 .article-form {
@@ -13,13 +13,13 @@
 }
 
 .select-image {
-	margin-left: 10px;
-	padding-left: 0px;
-	width: 325px;
+  margin-left: 10px;
+  padding-left: 0;
+  width: 325px;
 }
 
 .user-name-show-page {
-  color: #fe6001
+  color: #fe6001;
 }
 
 .text-article-show-page p {
@@ -27,7 +27,7 @@
   line-height: 25px;
 }
 
-strong a:hover, .upvote-downvote a:hover {
+strong a:hover,
+.upvote-downvote a:hover {
   background-color: transparent;
 }
-

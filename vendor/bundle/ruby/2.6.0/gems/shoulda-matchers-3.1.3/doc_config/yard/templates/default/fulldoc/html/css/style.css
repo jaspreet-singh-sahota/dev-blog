@@ -9,12 +9,14 @@ h2 {
   font-size: 2em;
 }
 
-h2, h3 {
+h2,
+h3 {
   margin-top: 1em;
   padding-top: 0.5em;
 }
 
-h4, h5 {
+h4,
+h5 {
   margin-top: 1em;
 }
 
@@ -57,7 +59,7 @@ h4 + h5 {
 
 #main h4,
 #sticky-header h4 {
-  border-bottom: 1px solid rgba(0,0,0,0.3);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   font-size: 1.4em;
   font-style: italic;
   padding-bottom: 2px;
@@ -78,7 +80,8 @@ h4 + h5 {
 
 /* Header */
 
-#header, #main {
+#header,
+#main {
   position: absolute;
 }
 
@@ -88,11 +91,13 @@ h4 + h5 {
   top: 0;
 }
 
-#menu, #search {
+#menu,
+#search {
   height: 6rem;
   line-height: 6rem;
   font-size: 1.1em;
 }
+
 #main {
   top: 6rem;
 }
@@ -112,45 +117,46 @@ h4 + h5 {
   float: right;
 }
 
-  #search ul {
-    list-style: none;
-  }
+#search ul {
+  list-style: none;
+}
 
-  #search ul, #search li {
-    margin: 0;
-    padding: 0;
-    display: inline;
-  }
+#search ul,
+#search li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
 
-  #search a {
-    border-left: 1px solid rgba(0,0,0,0.3);
-    float: left;
-    padding: 0 2em;
-    text-align: center;
-    text-decoration: none;
-    -webkit-transition: 0.1s background-color, 0.1s color;
-    -moz-transition: 0.1s background-color, 0.1s color;
-    transition: 0.1s background-color, 0.1s color;
-  }
+#search a {
+  border-left: 1px solid rgba(0, 0, 0, 0.3);
+  float: left;
+  padding: 0 2em;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: 0.1s background-color, 0.1s color;
+  -moz-transition: 0.1s background-color, 0.1s color;
+  transition: 0.1s background-color, 0.1s color;
+}
 
-  #search a:hover {
-    background-color: #f0f8ff;
-  }
+#search a:hover {
+  background-color: #f0f8ff;
+}
 
-  #search .active a {
-    background-color: #136cc6;
-    border-left-color: #136cc6;
-    color: white;
-  }
+#search .active a {
+  background-color: #136cc6;
+  border-left-color: #136cc6;
+  color: white;
+}
 
-  #search .active + li a {
-    border-left-color: #136cc6;
-  }
+#search .active + li a {
+  border-left-color: #136cc6;
+}
 
 #search_frame {
   background: white;
-  border: 1px solid rgba(0,0,0,0.2);
-  box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.3);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.3);
   height: 0;
   opacity: 0;
   position: absolute;
@@ -162,6 +168,7 @@ h4 + h5 {
   width: 500px;
   z-index: 9999;
 }
+
 #search_frame.open {
   height: 500px;
   opacity: 1;
@@ -173,7 +180,7 @@ h4 + h5 {
 /* Main */
 
 #main {
-  border-top: 1px solid rgba(0,0,0,0.2);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
   bottom: 0;
   left: 0;
   overflow-y: auto;
@@ -193,12 +200,12 @@ h4 + h5 {
 /* Footer */
 
 #footer {
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(0, 0, 0, 0.3);
   color: white;
   font-weight: 100;
   padding: 10px;
   text-align: center;
-  text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
   font-size: 0.9em;
 }
 
@@ -213,82 +220,85 @@ h4 + h5 {
 }
 
 .method_details {}
-  .method_details .signature .aliases {
-    display: none;
-  }
 
-  .method_details td {
-    padding: 10px;
-  }
+.method_details .signature .aliases {
+  display: none;
+}
 
-  .method_details .showSource {
-    display: block;
-    margin-bottom: 1em;
-  }
+.method_details td {
+  padding: 10px;
+}
 
-  .method_details .source_code {
-    border: 1px solid rgba(0,0,0,0.1);
-    display: none;
-    overflow: auto;
-    width: 100%;
-  }
+.method_details .showSource {
+  display: block;
+  margin-bottom: 1em;
+}
 
-    .method_details .source_code pre {
-      background-color: transparent;
-      border-radius: 0;
-      border: none;
-      color: inherit;
-      margin-bottom: 0;
-      padding: 0;
-    }
+.method_details .source_code {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: none;
+  overflow: auto;
+  width: 100%;
+}
 
-    .method_details .source_code td {
-      border: 1px solid rgba(0,0,0,0.1);
-    }
+.method_details .source_code pre {
+  background-color: transparent;
+  border-radius: 0;
+  border: none;
+  color: inherit;
+  margin-bottom: 0;
+  padding: 0;
+}
 
-    .method_details .source_code td.lines {
-      background-color: #f0f0f0;
-      color: #93a1a1;
-      width: 50px;
-    }
+.method_details .source_code td {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
 
-    .method_details .source_code td.code {
-      background-color: #f8f8f8;
-    }
+.method_details .source_code td.lines {
+  background-color: #f0f0f0;
+  color: #93a1a1;
+  width: 50px;
+}
 
-    .method_details .source_code td.code pre .info {
-      color: #93a1a1 /* Comment */
-    }
+.method_details .source_code td.code {
+  background-color: #f8f8f8;
+}
 
-    .method_details .deprecated {
-      margin-bottom: 1em;
-      font-size: 1.1em;
-    }
+.method_details .source_code td.code pre .info {
+  color: #93a1a1 /* Comment */
+}
 
-      .method_details .deprecated strong {
-        background-color: #F03434;
-        color: white;
-        text-transform: uppercase;
-        border-radius: 3px;
-        padding: 0 4px;
-      }
+.method_details .deprecated {
+  margin-bottom: 1em;
+  font-size: 1.1em;
+}
 
-      .method_details .deprecated .inline {
-        padding-left: 3px;
-      }
+.method_details .deprecated strong {
+  background-color: #f03434;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 3px;
+  padding: 0 4px;
+}
 
-      .method_details .deprecated div,
-      .method_details .deprecated p {
-        display: inline
-      }
+.method_details .deprecated .inline {
+  padding-left: 3px;
+}
 
-.docstring, .method_details .showSource, .method_details .source_code {
+.method_details .deprecated div,
+.method_details .deprecated p {
+  display: inline;
+}
+
+.docstring,
+.method_details .showSource,
+.method_details .source_code {
   margin-left: 1em;
 }
 
 #sticky-header {
-  background-color: rgba(255,255,255,0.8);
-  border-bottom: 1px solid rgba(0,0,0,0.2);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   height: 3em;
   line-height: 3em;
   opacity: 0;
@@ -303,6 +313,7 @@ h4 + h5 {
   width: 100%;
   z-index: 999;
 }
+
 #sticky-header.show {
   opacity: 1;
 }
