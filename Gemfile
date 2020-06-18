@@ -22,11 +22,11 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'carrierwave'
 gem 'devise'
+gem 'figaro'
+gem 'fog-aws'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'rubocop', '~> 0.83.0', require: false
-gem "fog-aws"
-gem 'figaro' 
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
