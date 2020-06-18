@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   resources :categories
   resources :categoriesses
   resources :articles
-   devise_for :users, controllers: {
+  devise_for :users, controllers: {
     sessions: 'sessions'
   }
   root to: 'categories#index'

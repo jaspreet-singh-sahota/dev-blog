@@ -58,8 +58,37 @@ This is Microverse Capstone project for blogging site and I am going with the De
 
 ## Video Discription Of The Project 
 
-- Live link to loom here - 
-coming soon
+- Live link to loom here - https://www.loom.com/share/18b0b66ece0b4871b187e395aa971533
+
+- Solution for `N + 1` can be seen in the video at `3:40`
+
+## Live Link (Heroku)
+
+- [heroku](https://jassi-dev-blog.herokuapp.com/)
+
+## Sign-up Page 
+
+![Screenshot from 2020-06-18 18-53-47](https://user-images.githubusercontent.com/55361440/85025924-a4b83300-b195-11ea-9c4c-5e463153de49.png)
+
+## Log-in Page
+
+![Screenshot from 2020-06-18 19-03-24](https://user-images.githubusercontent.com/55361440/85026590-79821380-b196-11ea-82be-2b7eedca9a2e.png)
+
+## Home Page
+
+![Screenshot from 2020-06-18 18-52-10](https://user-images.githubusercontent.com/55361440/85025923-a2ee6f80-b195-11ea-90f4-59a959928ae4.png)
+
+## Create New Blog Page
+
+![Screenshot from 2020-06-18 18-55-23](https://user-images.githubusercontent.com/55361440/85025930-a71a8d00-b195-11ea-92b6-ccf80e01faab.png)
+
+## Category Page
+
+![Screenshot from 2020-06-18 18-56-39](https://user-images.githubusercontent.com/55361440/85025935-aa157d80-b195-11ea-8798-59d5ab5e31a1.png)
+
+## Blog show Page
+
+![Screenshot from 2020-06-18 18-57-13](https://user-images.githubusercontent.com/55361440/85025943-abdf4100-b195-11ea-97c4-ed5a1c08f00c.png)
 
 <!-- BUILD WITH -->
 ## Built With
