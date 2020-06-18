@@ -10,5 +10,5 @@ class Article < ApplicationRecord
   has_many :votes
   has_many :voters, through: :votes
   has_many :users_vote, through: :votes, source: :user
-  scope :highest_vote, -> { order(votes_count: :desc) }
+  scope :highest_vote, -> { order(Vote.count :desc) }
 end
