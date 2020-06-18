@@ -25,6 +25,8 @@ gem 'devise'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'rubocop', '~> 0.83.0', require: false
+gem "fog-aws"
+gem 'figaro' 
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
