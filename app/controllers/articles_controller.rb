@@ -1,13 +1,12 @@
 class ArticlesController < ApplicationController
-  before_action :set_article, only: [:show,]
+  before_action :set_article, only: [:show]
   before_action :search_params, only: [:search]
 
   def index
     @articles = Article.all
   end
 
-  def show
-  end
+  def show; end
 
   def new
     @article = Article.new
@@ -16,7 +15,7 @@ class ArticlesController < ApplicationController
   def search
     if @result
       respond_to do |format|
-        format.js { render partial: 'articles/result'}
+        format.js { render partial: 'articles/result' }
       end
     else
       respond_to do |format|
@@ -24,7 +23,7 @@ class ArticlesController < ApplicationController
         format.js { render partial: 'articles/result' }
       end
     end
-  end  
+  end
 
   def create
     @article = current_user.articles.build(article_params)
@@ -47,8 +46,6 @@ class ArticlesController < ApplicationController
   end
 
   def search_params
-    if params[:search] != ''
-      @result = Article.where("title like ?", "%#{params[:search]}%")
-    end
+    @result = Article.where('title like ?', "%#{params[:search]}%") if params[:search] != ''
   end
 end

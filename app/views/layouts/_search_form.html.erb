@@ -1,7 +1,7 @@
 <%= form_tag search_articles_path, remote: true, method: :get do %>
   <div class="form-group row ">
     <div class="col-sm-10 search-form">
-      <%= text_field_tag :search, params[:search], autofocus: true, class: "form-control", placeholder: 'Search for stock' %>
+      <%= text_field_tag :search, params[:search], autofocus: true, class: "form-control", placeholder: 'Search for blogs' %>
     </div>
     <div class="col-sm-1">
       <%= button_tag type: :submit, class: "btn btn-secondary form-margin-left" do %>

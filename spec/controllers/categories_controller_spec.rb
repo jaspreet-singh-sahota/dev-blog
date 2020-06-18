@@ -24,23 +24,21 @@ require 'rails_helper'
 # `rails-controller-testing` gem.
 
 RSpec.describe CategoriesController, type: :controller do
-
-
-  let(:valid_attributes) {
+  let(:valid_attributes) do
     { name: 'Ruby', priority: 2 }
-  }
+  end
 
-  let(:invalid_attributes) {
-    skip("Add a hash of attributes invalid for your model")
-  }
+  let(:invalid_attributes) do
+    skip('Add a hash of attributes invalid for your model')
+  end
 
   # This should return the minimal set of values that should be in the session
   # in order to pass any filters (e.g. authentication) defined in
   # CategoriesController. Be sure to keep this updated too.
   let(:valid_session) { {} }
 
-  describe "GET #index" do
-    it "returns a success response" do
+  describe 'GET #index' do
+    it 'returns a success response' do
       @categories = Category.new valid_attributes
       @categories.save
       get :index, params: {}, session: valid_session
@@ -48,12 +46,12 @@ RSpec.describe CategoriesController, type: :controller do
     end
   end
 
-  describe "GET #show" do
+  describe 'GET #show' do
     context 'if the capybara does not exist' do
       it 'is not a success' do
         begin
           get :show, id: -1
-        rescue
+        rescue StandardError
           ActiveRecord::RecordNotFound
         end
         expect(response).not_to render_template(:show)

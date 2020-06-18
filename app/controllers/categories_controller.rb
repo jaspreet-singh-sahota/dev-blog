@@ -1,5 +1,5 @@
 class CategoriesController < ApplicationController
-  before_action :set_category, only: [:show]  
+  before_action :set_category, only: [:show]
   skip_before_action :authenticate_user!, only: [:index]
 
   def index
@@ -29,11 +29,12 @@ class CategoriesController < ApplicationController
   end
 
   private
-    def set_category
-      @category = Category.find_by(id: params[:id])
-    end
 
-    def category_params
-      params.fetch(:category, {})
-    end
+  def set_category
+    @category = Category.find_by(id: params[:id])
+  end
+
+  def category_params
+    params.fetch(:category, {})
+  end
 end

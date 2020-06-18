@@ -10,6 +10,6 @@ module ApplicationHelper
   end
 
   def cp(path)
-    "current-color" if current_page?(path)
+    'current-color' if current_page?(path)
   end
 end

@@ -1,4 +1,5 @@
 AllCops:
+  NewCops: enable
   Exclude:
     - "db/**/*"
     - "bin/*" 
@@ -7,6 +8,7 @@ AllCops:
     - "Rakefile"
     - "README.md"
     - "node_modules/**/*"
+    - 'vendor/**/*'
 
   DisplayCopNames: true
 

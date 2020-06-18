@@ -48,7 +48,6 @@
   * [Built With](#built-with)
 * [Contact](#Authors)
 * [Acknowledgements](#acknowledgements)
-* [How it works](#How-it-works)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -91,8 +90,6 @@ To test DEV-BLOG locally, clone the repository, navigate to it's containing dire
 This should install all ruby gems and setup the database
 
 Then you can you can open `http://localhost:3000/` in your browser to see DEV-BLOG up and running.
-
-<!-- HOW IT WORKS -->
 
 ## Tests
 
