@@ -2,10 +2,6 @@ class ArticlesController < ApplicationController
   before_action :set_article, only: [:show]
   before_action :search_params, only: [:search]
 
-  def index
-    @articles = Article.all
-  end
-
   def show; end
 
   def new
