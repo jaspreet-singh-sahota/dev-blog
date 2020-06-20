@@ -102,7 +102,7 @@ This project was built using these technologies.
 *  Ruby V2.6.5
 *  Ruby on Rails v6.0.2.1
 *  Postgres: >=9.
-*  Aws s3 bucket (access key and secret key to upload images in production environme
+*  Aws s3 bucket (access key and secret key to upload images in production environment)
 
 ### Install
 
@@ -110,11 +110,14 @@ To test DEV-BLOG locally, clone the repository, navigate to it's containing dire
 
 #### Follow these commands step by step:-
 
-- $ `git@github.com:jaspreet-singh-sahota/dev-blog.git`
-- $ bundle install
-- $ rails db:create
-- $ rails db:migrate
-- $ rails server
+```bash
+git clone git@github.com:jaspreet-singh-sahota/dev-blog.git
+cd dev-blog
+bundle install
+rails db:create
+rails db:migrate
+rails server
+```
 
 This should install all ruby gems and setup the database
 
