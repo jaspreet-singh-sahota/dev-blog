@@ -58,9 +58,9 @@ This is Microverse Capstone project for blogging site and I am going with the De
 
 ## Video Discription Of The Project 
 
-- Live link to loom here - https://www.loom.com/share/18b0b66ece0b4871b187e395aa971533
+- Live link to Youtube here - https://youtu.be/in_27xn2lzo
 
-- Solution for `N + 1` can be seen in the video at `3:40`
+- Solution for `N + 1` can be seen in the video at `3:57`
 
 ## Live Link (Heroku)
 
@@ -116,6 +116,7 @@ cd dev-blog
 bundle install
 rails db:create
 rails db:migrate
+rails db:seed
 rails server
 ```
 
