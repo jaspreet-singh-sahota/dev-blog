@@ -429,7 +429,7 @@ module ActiveModel
         super
       else
         match = matched_attribute_method(method.to_s)
-        match ? attribute_missing(match, *args, &block) : super
+        # match ? attribute_missing(match, *args, &block) : super
       end
     end
     ruby2_keywords(:method_missing) if respond_to?(:ruby2_keywords, true)

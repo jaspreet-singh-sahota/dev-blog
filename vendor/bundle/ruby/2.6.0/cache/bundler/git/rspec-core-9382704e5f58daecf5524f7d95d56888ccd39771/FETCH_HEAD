@@ -1,0 +1,226 @@
+a568a03883c4ff23b23ac17b9cba3773ca395326		branch '2-0-stable' of https://github.com/rspec/rspec-core
+7eef8c750eddb9aa140e8ebd3ba9762e50fca9fd		branch '2-10-maintenance' of https://github.com/rspec/rspec-core
+b8197262d143294bf849ab58d1586d24537965ab		branch '2-11-maintenance' of https://github.com/rspec/rspec-core
+1b4f723731a08f372dedea77a1b77d39177ceda5		branch '2-14-maintenance' of https://github.com/rspec/rspec-core
+d2ee251a94b10302fd8cb11268d79da19a0a9ba4		branch '2-2-maintenance' of https://github.com/rspec/rspec-core
+9dc1b44bd5011a7980b1c6b70ae930205b485036		branch '2-3-maintenance' of https://github.com/rspec/rspec-core
+8d058cd99adf2e4141e69d27858c200c948bd85c		branch '2-5-maintenance' of https://github.com/rspec/rspec-core
+fc9e3bd2dabaae760574be6c66fb78cbe420a43d		branch '2-6-maintenance' of https://github.com/rspec/rspec-core
+d19d0e6c9f4cdff044aece7fce3afda85d33fafc		branch '2-7-maintenance' of https://github.com/rspec/rspec-core
+52bbe9fbfc637c978534fcf7df85f1d1ffa03138		branch '2-9-maintenance' of https://github.com/rspec/rspec-core
+2fb1d5bbcdb33c16d02e9bed3b9f3f61693fbaf9		branch '2-99-maintenance' of https://github.com/rspec/rspec-core
+0c91fd79d4c0c1972fae2dfb774f2e9c81bb6c8d		branch '3-0-maintenance' of https://github.com/rspec/rspec-core
+a01e9835a538e4c12ebf4c03e0f2ebe2a4195228		branch '3-1-maintenance' of https://github.com/rspec/rspec-core
+faf99b4dd38be664bc47a0a4d447de7f9ab685b9		branch '3-2-maintenance' of https://github.com/rspec/rspec-core
+0c213a0134f05cba5fc3071c1bbc4a1a51f9a696		branch '3-3-maintenance' of https://github.com/rspec/rspec-core
+9a57422a3f5fe2daf3f87e599d9e1c5b5c1985ee		branch '3-4-maintenance' of https://github.com/rspec/rspec-core
+4b16cc7cf78e5a9c6e2da7bf9ba36cd5cc5a3eed		branch '3-5-maintenance' of https://github.com/rspec/rspec-core
+6d5e10d4917860997758df2d715260e135f8641d		branch '3-6-maintenance' of https://github.com/rspec/rspec-core
+7dd5edbf664a2213aabf21d06ebe537b8196089d		branch '3-7-maintenance' of https://github.com/rspec/rspec-core
+f2eabc5488306b7a122ac544846b4629dc9251a8		branch '3-8-maintenance' of https://github.com/rspec/rspec-core
+f796d9edf1ed4cae5ed1461cc9912643d8352d3d		branch '3-9-maintenance' of https://github.com/rspec/rspec-core
+2dd6fab94b408bcc02ecab6417702097aa87ff4a		branch '304-less-verbose-metadata' of https://github.com/rspec/rspec-core
+7ff5c04323cce6c22070166b3dfb2bfd5e327937		branch 'add-formatter-regression-tests' of https://github.com/rspec/rspec-core
+3ec48ea3f5668f7e0072dc2d58ecb576197dbc67		branch 'add-formatter-regression-tests-rebased' of https://github.com/rspec/rspec-core
+b6aaa234aa8d280527d745cf4ccd3146bc6a7dca		branch 'add_message_to_html_formatter' of https://github.com/rspec/rspec-core
+9f01d6ff188483805d9cdd8758889a2e612a1a1e		branch 'additional-threadsafe-benchmark' of https://github.com/rspec/rspec-core
+5ce8240655925f41fc315782a905ce8307255dc5		branch 'aruba_fix' of https://github.com/rspec/rspec-core
+c56eb3450d7c6d80cd7f04bfed041ac2793bad69		branch 'autoload_other_rspec_libs' of https://github.com/rspec/rspec-core
+de72b638efe1426a6f38219aa597356e8ad2874b		branch 'before-all-pending-fix' of https://github.com/rspec/rspec-core
+858f17ca30f06b658bac376c9c302791036f7b49		branch 'bisect-before-rebase' of https://github.com/rspec/rspec-core
+f90b9f5c6ce5efdfb5cf18efbe27adf87d0fa848		branch 'bundler-raketask' of https://github.com/rspec/rspec-core
+46eabb7b6a01330854f3666b848057b8562b474d		branch 'checking-jruby-backtrace' of https://github.com/rspec/rspec-core
+d51eb836ea3b8ce3cd8ee61a6ebe62abb81eef2e		branch 'classes_and_methods' of https://github.com/rspec/rspec-core
+41ef7945e3aaa512d2e5046d3d697a293b9d3129		branch 'clean-up-world' of https://github.com/rspec/rspec-core
+61c8ec6f84eab8b1a52c113d43281dc19eb0633e		branch 'config-prioritization' of https://github.com/rspec/rspec-core
+09273dd25bd7f295ab278feeb458e9ed50acb4c2		branch 'custom_ordering_strategies' of https://github.com/rspec/rspec-core
+3646611ec6b2de10c57b806abc40083fa29ceae6		branch 'delay-drb-loading' of https://github.com/rspec/rspec-core
+04a69f616e10331557edbb69e2f326a9b3fae6a9		branch 'deprecation-formatter' of https://github.com/rspec/rspec-core
+b36e5a31fba2c71f8cffc0eb0ddaa723938019c7		branch 'detach-process-to-avoid-zombie' of https://github.com/rspec/rspec-core
+d06ffe85b4513dba296abc653090191806963da0		branch 'enable-rubocop' of https://github.com/rspec/rspec-core
+f6c1592d1d640737e872d3b1cd72569932a5bac5		branch 'escape-patterns-in-bisect-commands' of https://github.com/rspec/rspec-core
+5e4dc33999df0691fb63271a83c3b4788234de63		branch 'events' of https://github.com/rspec/rspec-core
+f683c08051b29963deb4e2f3eeb06ffef413b839		branch 'expose_config_options' of https://github.com/rspec/rspec-core
+39857f30ebc8f19374ece61e3c59cd12b5986f7d		branch 'extract_backtrace_filtering' of https://github.com/rspec/rspec-core
+37782c8f1823c893fefe7641858ae5180dcb1608		branch 'filtering_all_hooks_with_metadata' of https://github.com/rspec/rspec-core
+316548bb8fce9bcc80ba7e6e34c86ebd3123f739		branch 'fix-generated-descriptions-for-nested-matchers' of https://github.com/rspec/rspec-core
+f184fa6e629e759cee1525449dcb2c13ff16224c		branch 'hating-on-html-fixtures' of https://github.com/rspec/rspec-core
+edef60b8fec6741aa054ceb0542dad827bdaa86e		branch 'hooks' of https://github.com/rspec/rspec-core
+27a6e8378452f67ff84ec3098b3add10af77f406		branch 'html-formatter-enhancements' of https://github.com/rspec/rspec-core
+312d96fc553b5192a94f4d7ff35ab74a4604dcd3		branch 'improve-deprecations' of https://github.com/rspec/rspec-core
+086e8769530c0fafa3907baebe4c20da101116d5		branch 'include-in-singleton-class-of-group' of https://github.com/rspec/rspec-core
+5748a0b9d6fbafd3125f7e701fd352eec6f28cab		branch 'integration' of https://github.com/rspec/rspec-core
+db63959abdc5d06659b98f849a6c249b879cc97b		branch 'issue-1208' of https://github.com/rspec/rspec-core
+a59fec6ae997169ef1026ac3c4839af1ff297332		branch 'issue-1208-rebased' of https://github.com/rspec/rspec-core
+f6cb5923912f7598e544e04a1e6a45a0c8a37778		branch 'issue-321' of https://github.com/rspec/rspec-core
+4e735e185356a3c5204bc1241d73c3e926b57f42		branch 'issue-799' of https://github.com/rspec/rspec-core
+7260df63ad10d8f022a5199a95df51b888dd29e0		branch 'issue-835' of https://github.com/rspec/rspec-core
+f2dc2f8954fc6663dc45f03375912dc58fc590f9		branch 'issue_490' of https://github.com/rspec/rspec-core
+78fd4cf7f74cc1587c704ec5d5917dc1113c4ddf		branch 'let-definitions-eagerly-included' of https://github.com/rspec/rspec-core
+cc46b552a4c1354345b529f981611629f745e838		branch 'let_subject_super' of https://github.com/rspec/rspec-core
+b45c10e0d9d67595d62838ac79d803f5786f6175		branch 'limit_monkey_patching_of_describe' of https://github.com/rspec/rspec-core
+fd7012c96b69647746c4e4b6cfa62adedaa9d070		branch 'location-filtering-with-shared-contexts' of https://github.com/rspec/rspec-core
+5685ccfbe9973eae0bd542e6c6a0fe7fa7314371		branch 'master' of https://github.com/rspec/rspec-core
+b9b3531a98181071c9c711b52a70973a7fef8997		branch 'minimal_debugger' of https://github.com/rspec/rspec-core
+44422d056ad3db1340396c012b1ad886aa7fcd5f		branch 'mocha-integration-issue' of https://github.com/rspec/rspec-core
+2fb35a3620fcbd98ffe160f0c29ec6b816c0dd9c		branch 'more-powerful-include-use-config-hooks' of https://github.com/rspec/rspec-core
+0778d630b80d5470d33bd11bda6dfe57bb8cfc56		branch 'multiple-line-numbers' of https://github.com/rspec/rspec-core
+61907420d91b4fc043b0efb93a07312506a7e32b		branch 'myron/fix-inclusion-rules' of https://github.com/rspec/rspec-core
+046179ca43bf96964a51ff645a5007d650e6c742		branch 'myron/fix-output-stream-followups' of https://github.com/rspec/rspec-core
+abcaf50736ab569618ba1e7ca772194db4f4383e		branch 'pending-fixes' of https://github.com/rspec/rspec-core
+cdeb6ef0368e94ab4787b6fd20834971592012e2		branch 'prevent_define_method_leaking_as_public' of https://github.com/rspec/rspec-core
+90ae3c5fdab3d635e2ee0ef7c763d22011ff867a		branch 'pry' of https://github.com/rspec/rspec-core
+e2598574d93e9f2cd468773183cd25c5bb8f5cf1		branch 'pull-1822-using-include' of https://github.com/rspec/rspec-core
+e3d30fbe7a35360d34b9282c8f4c5f4539f41a47		branch 'refactor-metadata-spike' of https://github.com/rspec/rspec-core
+5b25672d4806bbe94c9521d9d01a077b3cdef7f2		branch 'refactor_metadata' of https://github.com/rspec/rspec-core
+325fcd9a360b4df3bbe1a22eb0853b51b7926ac0		branch 'remove-evals' of https://github.com/rspec/rspec-core
+01c4fc60eeaa71baa3d02d115a01c7e069e810e4		branch 'rerun-failures-spike' of https://github.com/rspec/rspec-core
+652b251fdd85627a36e2b2bfdb71c7936cb3dd49		branch 'rework-cukes-integration' of https://github.com/rspec/rspec-core
+2aca56e34e4039c6577ce34fcadcf87eede5c431		branch 'rspec-mocks-configuration' of https://github.com/rspec/rspec-core
+2e753a84cf1f5ff19cc7a32ae0925b097f3bd507		branch 'safely_clear_shared_example_groups_214' of https://github.com/rspec/rspec-core
+a9fd289c03706a9fc307a24dfd3890acdf55cdf9		branch 'simplify-exclusion-filter' of https://github.com/rspec/rspec-core
+6c92ebc14cb21e0e9bcc969d5c821738dba41e43		branch 'tmp' of https://github.com/rspec/rspec-core
+00f6327df1263fa720abf276178539e431fd0a8c		branch 'update-common-plaintext-files-2020-04-08-for-master' of https://github.com/rspec/rspec-core
+11ee951fdcf714cd15c8efe28ab7d267dbf13fee		branch 'updated-benchmarks-for-pr-1858' of https://github.com/rspec/rspec-core
+b8c562c520d83961f94864cc00a0e446ef3c5694	not-for-merge	tag '2.0.0.a2' of https://github.com/rspec/rspec-core
+3fdc82f30a62a98e60e401ad3c3160dc65ec29f9	not-for-merge	tag '2.0.0.a3' of https://github.com/rspec/rspec-core
+f9ea4ecf3527ef5962ac6baac80012633aaf6a4e	not-for-merge	tag 'v0.0.0' of https://github.com/rspec/rspec-core
+cb03c02f1d5fa42778cb7586ef29d8ac8a6ea5d1	not-for-merge	tag 'v2.0.0' of https://github.com/rspec/rspec-core
+1afea93641c175de1f2db2ee6208afcf90d3914f	not-for-merge	tag 'v2.0.0.a1' of https://github.com/rspec/rspec-core
+1679e57005325648b9cefcd6d57a373d4af723c4	not-for-merge	tag 'v2.0.0.a10' of https://github.com/rspec/rspec-core
+67f1f9e1ed615320b5d6fbda564f53736704a3bf	not-for-merge	tag 'v2.0.0.a4' of https://github.com/rspec/rspec-core
+976ef913868713948da2081deb3fd68392169895	not-for-merge	tag 'v2.0.0.a5' of https://github.com/rspec/rspec-core
+1661704281547e37c93c8df7c81f69deda95f51e	not-for-merge	tag 'v2.0.0.a6' of https://github.com/rspec/rspec-core
+8c8d50ffb7bcc7985ce84a8d2bca685cb59bb6d4	not-for-merge	tag 'v2.0.0.a7' of https://github.com/rspec/rspec-core
+31ab0488103d866b4af45f3dd1cfdae33155879c	not-for-merge	tag 'v2.0.0.a8' of https://github.com/rspec/rspec-core
+f497c62b8b3f470318c799b151e4fe84600e21a0	not-for-merge	tag 'v2.0.0.a9' of https://github.com/rspec/rspec-core
+dd11a4714dc51d78a8ba5fec42adaffc6c92ea39	not-for-merge	tag 'v2.0.0.beta.1' of https://github.com/rspec/rspec-core
+164224a01586e99cf76c73995018a9ae040c853c	not-for-merge	tag 'v2.0.0.beta.10' of https://github.com/rspec/rspec-core
+e0f10f3d20036a0e0f0eb9b4e45835c403f0449d	not-for-merge	tag 'v2.0.0.beta.11' of https://github.com/rspec/rspec-core
+cb09092303ae51a9845c66290d31f5fe4a21f0e4	not-for-merge	tag 'v2.0.0.beta.12' of https://github.com/rspec/rspec-core
+5e478137d4e609c3dd4cb0acbc923e7df74d2912	not-for-merge	tag 'v2.0.0.beta.13' of https://github.com/rspec/rspec-core
+76f3fdf7dae2c412661a2660d0860c8eae1a7914	not-for-merge	tag 'v2.0.0.beta.14' of https://github.com/rspec/rspec-core
+f3f7626a92b82388357d10a7ff18830f0b4c3bfe	not-for-merge	tag 'v2.0.0.beta.15' of https://github.com/rspec/rspec-core
+20186ab5a93437ead9e497100b1727efbd66f65d	not-for-merge	tag 'v2.0.0.beta.16' of https://github.com/rspec/rspec-core
+328f7e7c64763176e63419cbc3ee4eda88f98302	not-for-merge	tag 'v2.0.0.beta.17' of https://github.com/rspec/rspec-core
+e6830c225b1128f04b921681d4504ee202625b4b	not-for-merge	tag 'v2.0.0.beta.18' of https://github.com/rspec/rspec-core
+44444a57f20b9cd11dded99049fe6f30b3f91906	not-for-merge	tag 'v2.0.0.beta.19' of https://github.com/rspec/rspec-core
+d2497bdc538f6193b9d2d2534d3918ea5648ac6e	not-for-merge	tag 'v2.0.0.beta.2' of https://github.com/rspec/rspec-core
+14c3bf0c35b9f89e0b384102eb6e09149a4fc774	not-for-merge	tag 'v2.0.0.beta.20' of https://github.com/rspec/rspec-core
+a3318c094eeeb0416439ecc1ea0a06f5401a186a	not-for-merge	tag 'v2.0.0.beta.21' of https://github.com/rspec/rspec-core
+d018eef42cdfd36d24b38a568c9ff2827573e96d	not-for-merge	tag 'v2.0.0.beta.22' of https://github.com/rspec/rspec-core
+08675cbb782801bc391b118483646dfd33ea62b2	not-for-merge	tag 'v2.0.0.beta.3' of https://github.com/rspec/rspec-core
+149f8d1e68960e3aa01c214cc7af8ebeb48fc224	not-for-merge	tag 'v2.0.0.beta.4' of https://github.com/rspec/rspec-core
+f8393076c9e80a1597617032fbc2ad63a6f2d413	not-for-merge	tag 'v2.0.0.beta.5' of https://github.com/rspec/rspec-core
+05196bd3b5fccaf9cd165a1c50fbd1d5be3a7e15	not-for-merge	tag 'v2.0.0.beta.6' of https://github.com/rspec/rspec-core
+38da099438fa9c80ecfd7320df756366d7921010	not-for-merge	tag 'v2.0.0.beta.7' of https://github.com/rspec/rspec-core
+2fcc8acae5b13cf39b8c0864422c4f3a999379a5	not-for-merge	tag 'v2.0.0.beta.8' of https://github.com/rspec/rspec-core
+a0c580269a16e5ac19287130bb11cb7d5a5337cb	not-for-merge	tag 'v2.0.0.beta.9' of https://github.com/rspec/rspec-core
+cc0faa1f0c028a9c1eca0cefdfd667cb7458a7ae	not-for-merge	tag 'v2.0.0.rc' of https://github.com/rspec/rspec-core
+bf47f4fdd4343d7342bedb4d9d5819a40f255bbf	not-for-merge	tag 'v2.0.1' of https://github.com/rspec/rspec-core
+e28d8fbb88daf3acf3e4e03df3ffc2d7a4ede793	not-for-merge	tag 'v2.1.0' of https://github.com/rspec/rspec-core
+c2856ef5b489cc8981ffce56a94013558aa1b4d1	not-for-merge	tag 'v2.10.0' of https://github.com/rspec/rspec-core
+7f2abfe06a1f789758753bdb842c07216aa7af5d	not-for-merge	tag 'v2.10.1' of https://github.com/rspec/rspec-core
+f539e2ab324bf1f9c900054819264f325aee8450	not-for-merge	tag 'v2.11.0' of https://github.com/rspec/rspec-core
+cbc809f27889f89453f6a8c8834a6a278de65f53	not-for-merge	tag 'v2.11.1' of https://github.com/rspec/rspec-core
+1e5dbe2fc76e1401484986e4d7c32bb0b5ae3950	not-for-merge	tag 'v2.11.2' of https://github.com/rspec/rspec-core
+fc9fce34d80333f11a33c7cb461c15727b99f91c	not-for-merge	tag 'v2.11.3' of https://github.com/rspec/rspec-core
+2977d0257ce3f7f7b3f461fafa78a85367cb5c22	not-for-merge	tag 'v2.12.0' of https://github.com/rspec/rspec-core
+34077a496e2784069061904326b3a138b479f76c	not-for-merge	tag 'v2.12.1' of https://github.com/rspec/rspec-core
+d1fc6654ea9ce9213866aa8c1c6adcc5f2cf322b	not-for-merge	tag 'v2.12.2' of https://github.com/rspec/rspec-core
+fa51be4e22630e0a9604ca77ca69a97fea3f1e04	not-for-merge	tag 'v2.13.0' of https://github.com/rspec/rspec-core
+1179f20154391116821f7c60ab77993ce8991931	not-for-merge	tag 'v2.13.1' of https://github.com/rspec/rspec-core
+938ff2f332cc1e428ab26a60633b3757a8442a74	not-for-merge	tag 'v2.14.0' of https://github.com/rspec/rspec-core
+9f0d1f7a7ea31aeba6266c1a13bba0e5f4f2d31d	not-for-merge	tag 'v2.14.0.rc1' of https://github.com/rspec/rspec-core
+1e91cc7761351ebacdd08ec3a9e02672845c2357	not-for-merge	tag 'v2.14.1' of https://github.com/rspec/rspec-core
+864652cc120a05e9c9e956662dedcdb6034b17b9	not-for-merge	tag 'v2.14.2' of https://github.com/rspec/rspec-core
+5721576cfd772de948905aa538088d22f9596832	not-for-merge	tag 'v2.14.3' of https://github.com/rspec/rspec-core
+8618ec13757b90bdc59a31c05540c0b80a4509c0	not-for-merge	tag 'v2.14.4' of https://github.com/rspec/rspec-core
+ae399654c545caa9c6966998139abb17f739f91e	not-for-merge	tag 'v2.14.5' of https://github.com/rspec/rspec-core
+16ee5437cd7102ce0cfe23030c9619ca0af9a359	not-for-merge	tag 'v2.14.6' of https://github.com/rspec/rspec-core
+eda9a155ac6989d09e7cf22e290f2c03650aabbe	not-for-merge	tag 'v2.14.7' of https://github.com/rspec/rspec-core
+3e06e823d2804c0ae3def3543d7e57b7496160e9	not-for-merge	tag 'v2.14.8' of https://github.com/rspec/rspec-core
+5ac687a4d480fc7545a80a6904883623b1ac4c18	not-for-merge	tag 'v2.2.0' of https://github.com/rspec/rspec-core
+ac2f6e8bf53bf69706c57788173041eac6d7f1ad	not-for-merge	tag 'v2.2.1' of https://github.com/rspec/rspec-core
+79d64ab701cdc41600a1cbc32b39c8286988f3f6	not-for-merge	tag 'v2.3.0' of https://github.com/rspec/rspec-core
+183c21dd3da7697846d9503443771f827847968a	not-for-merge	tag 'v2.3.1' of https://github.com/rspec/rspec-core
+4444ca7a76c6f691feae10ae4f141a51f923cadc	not-for-merge	tag 'v2.4.0' of https://github.com/rspec/rspec-core
+2b9981ad1d103d7f2d154f6dbeada3d5629c23f3	not-for-merge	tag 'v2.5.0' of https://github.com/rspec/rspec-core
+3d00add9a20204331c5814a5661d4599b0183fe9	not-for-merge	tag 'v2.5.1' of https://github.com/rspec/rspec-core
+4700de332946435cb26ddce68fb4189216af1682	not-for-merge	tag 'v2.5.2' of https://github.com/rspec/rspec-core
+0b584b6d4f15c258f97edf88ed199d55728583bb	not-for-merge	tag 'v2.6.0' of https://github.com/rspec/rspec-core
+2bf0364f67b2a97020d255ce09339bd247214109	not-for-merge	tag 'v2.6.0.rc1' of https://github.com/rspec/rspec-core
+82882a02b027d30b773b17c4b5aa8b4c9a1b0e49	not-for-merge	tag 'v2.6.0.rc2' of https://github.com/rspec/rspec-core
+2341a93ffc033f5f53e97c5d0bbd438c6b50acdb	not-for-merge	tag 'v2.6.0.rc3' of https://github.com/rspec/rspec-core
+e0d60916cc03f52fbc721dff2a2b086b840f8d87	not-for-merge	tag 'v2.6.0.rc4' of https://github.com/rspec/rspec-core
+cd5c0d85ea8dd0e6601f025d259d31a2e2ccb512	not-for-merge	tag 'v2.6.0.rc5' of https://github.com/rspec/rspec-core
+00cf0e3cf8995686722e90c5d54fe257125cb677	not-for-merge	tag 'v2.6.0.rc6' of https://github.com/rspec/rspec-core
+b61e1131b0af347d9e07360cfd5e41ed4cd3839c	not-for-merge	tag 'v2.6.1' of https://github.com/rspec/rspec-core
+197323c2d6076a50a9a0ac6cb71e1885482fcb90	not-for-merge	tag 'v2.6.2' of https://github.com/rspec/rspec-core
+1bc52cddd28581993c21ba78e3cf4851bd09a349	not-for-merge	tag 'v2.6.2.rc' of https://github.com/rspec/rspec-core
+c7380c12d5a9e2db99dae065f9531d718e7e858c	not-for-merge	tag 'v2.6.3' of https://github.com/rspec/rspec-core
+0bff7b425cb1b57b861f25b6a46329562fe10adc	not-for-merge	tag 'v2.6.3.beta1' of https://github.com/rspec/rspec-core
+0eb470631d718f6f64ae6540d97bf65a265121f7	not-for-merge	tag 'v2.6.4' of https://github.com/rspec/rspec-core
+fe2ff73708db423a6df80eb4ac54632e9efe4d8a	not-for-merge	tag 'v2.7.0' of https://github.com/rspec/rspec-core
+bb6bb3a532c89b4476921f0517519880b1da9891	not-for-merge	tag 'v2.7.0.rc1' of https://github.com/rspec/rspec-core
+08266d90740bc2c43ebe9be512630b337919ad18	not-for-merge	tag 'v2.7.1' of https://github.com/rspec/rspec-core
+d0104f9fe24814e8f23a62646a37ed928b650e31	not-for-merge	tag 'v2.8.0' of https://github.com/rspec/rspec-core
+77661db30371f0dae9f6aa2c9a8aa91ffb8ce81f	not-for-merge	tag 'v2.8.0.rc1' of https://github.com/rspec/rspec-core
+4366110429c9afde46376b684b35aaa0d03cf93a	not-for-merge	tag 'v2.8.0.rc2' of https://github.com/rspec/rspec-core
+d1f3fff767d65ad549a4c3a424ba017419959324	not-for-merge	tag 'v2.9.0' of https://github.com/rspec/rspec-core
+f3e1e62d10bcf777143b58229c5061bc5f432c61	not-for-merge	tag 'v2.9.0.rc1' of https://github.com/rspec/rspec-core
+59fb313cb664393b28bdb7a545f135965726d590	not-for-merge	tag 'v2.9.0.rc2' of https://github.com/rspec/rspec-core
+657622ce361d8c3b83fc2e75b2c6ac91cc77b7d0	not-for-merge	tag 'v2.99.0' of https://github.com/rspec/rspec-core
+4adf4c901702698666e2fbbf9a5835390a74ecfd	not-for-merge	tag 'v2.99.0.beta1' of https://github.com/rspec/rspec-core
+0daaf8bdb288e877fe0395560832a221bc5bc04a	not-for-merge	tag 'v2.99.0.beta2' of https://github.com/rspec/rspec-core
+66e926b5feff5ee87a60092a9e14af2312cf7aae	not-for-merge	tag 'v2.99.0.rc1' of https://github.com/rspec/rspec-core
+50684c0bdefcab63d20e22141d3d5cbc75962c88	not-for-merge	tag 'v2.99.1' of https://github.com/rspec/rspec-core
+4c3ddc35947ae5a3b0ca781563cb100b6e7fcf1c	not-for-merge	tag 'v2.99.2' of https://github.com/rspec/rspec-core
+338e34383ff2e786263e43d0819c0cb6f59cb7ba	not-for-merge	tag 'v3.0.0' of https://github.com/rspec/rspec-core
+039ee20e5af68c5de1c6a3ad57a0f463134afaf6	not-for-merge	tag 'v3.0.0.beta1' of https://github.com/rspec/rspec-core
+8bcc7ce02210df9a00a022c6a67b6367d660cdfa	not-for-merge	tag 'v3.0.0.beta2' of https://github.com/rspec/rspec-core
+2a3cc28dec6c6075358a173183ebfc48fd46f886	not-for-merge	tag 'v3.0.0.rc1' of https://github.com/rspec/rspec-core
+74207c4dc2d9c1396372f8fbe2a57479092a0f16	not-for-merge	tag 'v3.0.1' of https://github.com/rspec/rspec-core
+0e93d236b4fc482765cd7103bc1680fa662411ae	not-for-merge	tag 'v3.0.2' of https://github.com/rspec/rspec-core
+eeb403a9fe8d6f16c09d8383f27b05adfee18120	not-for-merge	tag 'v3.0.3' of https://github.com/rspec/rspec-core
+d1dba32659a1e05c4274b209e150910e216ce457	not-for-merge	tag 'v3.0.4' of https://github.com/rspec/rspec-core
+d547e15ca84667b9b2f6c1c02a1337260383a7f5	not-for-merge	tag 'v3.1.0' of https://github.com/rspec/rspec-core
+65e71b971d4a51c01616c3d895948a6b36b2c399	not-for-merge	tag 'v3.1.1' of https://github.com/rspec/rspec-core
+e8f6c84532c86b7e2e27282c75f1551f889f374e	not-for-merge	tag 'v3.1.2' of https://github.com/rspec/rspec-core
+bdc983cb054c0046591a0f9ad5887558d30aa4df	not-for-merge	tag 'v3.1.3' of https://github.com/rspec/rspec-core
+5d6bb166976048a91b46c9766d5a638158815cad	not-for-merge	tag 'v3.1.4' of https://github.com/rspec/rspec-core
+c6cb25bdd2e1e08781b5c4c2a6514a147c30cd80	not-for-merge	tag 'v3.1.5' of https://github.com/rspec/rspec-core
+d3fdbbb5e57ad0e29ee540963f6a2cd2af4ae8db	not-for-merge	tag 'v3.1.6' of https://github.com/rspec/rspec-core
+ec7abecc7b1ba83febde6a3a5bb5c30c285a4530	not-for-merge	tag 'v3.1.7' of https://github.com/rspec/rspec-core
+da5edc1bc472c0ae10738775760ee200a1579b42	not-for-merge	tag 'v3.2.0' of https://github.com/rspec/rspec-core
+617348bd9a75fc44cc549668fea95f278ed6c24d	not-for-merge	tag 'v3.2.1' of https://github.com/rspec/rspec-core
+9fb1f2177e22677987c8f9da23f15296a08ad91d	not-for-merge	tag 'v3.2.2' of https://github.com/rspec/rspec-core
+215f5aeda159e81352a53bb07e5cfa9dcfc289c9	not-for-merge	tag 'v3.2.3' of https://github.com/rspec/rspec-core
+25f4854e64fc8379e25bba66f46c25713cf819b4	not-for-merge	tag 'v3.3.0' of https://github.com/rspec/rspec-core
+6710b68dc6fd8deba09321b60da363fefd5e01a2	not-for-merge	tag 'v3.3.1' of https://github.com/rspec/rspec-core
+8f98ba2cf6664e4d2b2430910a113d09ec4da9dd	not-for-merge	tag 'v3.3.2' of https://github.com/rspec/rspec-core
+6ac34672454cae2cea04873a1656577a664c2217	not-for-merge	tag 'v3.4.0' of https://github.com/rspec/rspec-core
+b66b2801beaffff2f99ed89fff749dfa5f183f23	not-for-merge	tag 'v3.4.1' of https://github.com/rspec/rspec-core
+339491eee6594b3b620f04a223a942a962a17218	not-for-merge	tag 'v3.4.2' of https://github.com/rspec/rspec-core
+92d8c2e42a084e61288796e1c5940bf0eea3c225	not-for-merge	tag 'v3.4.3' of https://github.com/rspec/rspec-core
+4822ab1c625028b96cdd616c69b29278377ea5c6	not-for-merge	tag 'v3.4.4' of https://github.com/rspec/rspec-core
+b537f0e6ee0103fb37a69d62a54a9e0b702c4f18	not-for-merge	tag 'v3.5.0' of https://github.com/rspec/rspec-core
+216430ac69703fe27f3d215ee015570d92a6d37e	not-for-merge	tag 'v3.5.0.beta1' of https://github.com/rspec/rspec-core
+5415567bcb471438c429032a3b10bbac0c236066	not-for-merge	tag 'v3.5.0.beta2' of https://github.com/rspec/rspec-core
+aba1316f5601d2e3b26e3592c24589276b1595f5	not-for-merge	tag 'v3.5.0.beta3' of https://github.com/rspec/rspec-core
+f5b0ff7b4b284f4a9b7be75cbb47bb642a76ec74	not-for-merge	tag 'v3.5.0.beta4' of https://github.com/rspec/rspec-core
+90c5aceb8615d03bfad727de0da85dc45fa6f5a9	not-for-merge	tag 'v3.5.1' of https://github.com/rspec/rspec-core
+b5ba31eaac3b0198eb04ca192a183c07422b88fd	not-for-merge	tag 'v3.5.2' of https://github.com/rspec/rspec-core
+6deb26a48a2de58a74f8e8ed65201b70fdb1ffe4	not-for-merge	tag 'v3.5.3' of https://github.com/rspec/rspec-core
+07284c89b9d718f98fd33890ecb1e454ece6e252	not-for-merge	tag 'v3.5.4' of https://github.com/rspec/rspec-core
+b570c33637d94f45622a73bfa20b1c47c24dedc6	not-for-merge	tag 'v3.6.0' of https://github.com/rspec/rspec-core
+b3ac305ff055a65377ae8ac3b5f943b48e3f415b	not-for-merge	tag 'v3.6.0.beta1' of https://github.com/rspec/rspec-core
+2aba8bbea28b74e0c56131eafb78c2b7d9290499	not-for-merge	tag 'v3.6.0.beta2' of https://github.com/rspec/rspec-core
+82af72e09db3015b86735085a39ae0d9d17a412b	not-for-merge	tag 'v3.7.0' of https://github.com/rspec/rspec-core
+af59fb73e902ad9b25906e5f88b4f57a6495509b	not-for-merge	tag 'v3.7.1' of https://github.com/rspec/rspec-core
+96d6ac98d0926a0d70177899294ba1db0fcf443f	not-for-merge	tag 'v3.8.0' of https://github.com/rspec/rspec-core
+c1bdb9f521ee2fb265fdce922f301b1e4e9d8240	not-for-merge	tag 'v3.8.1' of https://github.com/rspec/rspec-core
+9878e09f80631547f08a53b6065e7e82591f9cb1	not-for-merge	tag 'v3.8.2' of https://github.com/rspec/rspec-core
+5c8279e4fa2360877e842aa327c3e315351f7a13	not-for-merge	tag 'v3.9.0' of https://github.com/rspec/rspec-core
+78ae9d0a55a2b9eb2c1bb6cfaa7d71844eda76e6	not-for-merge	tag 'v3.9.1' of https://github.com/rspec/rspec-core
+1bf7488ff5446b28f598f81d3725ee344f94d86e	not-for-merge	tag 'v3.9.2' of https://github.com/rspec/rspec-core

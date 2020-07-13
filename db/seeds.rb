@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Categogy.create(name: "Ruby", priority: 1);
+Categogy.create(name: "Python", priority: 2);
+Categogy.create(name: "Swift", priority: 3);
+Categogy.create(name: "Javascript", priority: 4);

@@ -1,0 +1,124 @@
+@import 'bootstrap/dist/css/bootstrap';
+@import "font-awesome";
+
+#body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body a:link {
+  text-decoration: none;
+}
+
+nav a:hover,
+footer a:hover {
+  background-color: transparent;
+}
+
+/* Navigation bar */
+
+.font-size {
+  font-size: 16px;
+}
+
+.nav-bottom {
+  margin: 0;
+  padding-bottom: 8px;
+  position: relative;
+  border-bottom: 3px solid #847f7b;
+}
+
+.nav-bottom::before {
+  position: absolute;
+  background: #e9062f;
+  height: 3px;
+  content: '';
+  width: 12rem;
+  bottom: -3px;
+  left: 0;
+}
+
+// footer
+
+.fa {
+  color: #4e443f;
+  font-size: 1rem;
+  border-radius: 60px;
+  box-shadow: 0 0 2px #fe6001;
+  background-color: #fe6001;
+  padding: 0.35em 0.5em;
+}
+
+.fa:hover {
+  background: linear-gradient(to right, #fda10e 0%, #ff6c0d 100%);
+}
+
+#sticky-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #4e443f !important;
+  display: flex;
+  justify-content: space-between;
+}
+
+#page-content {
+  min-height: 100%;
+  margin-bottom: -60px;
+}
+
+.footer-flex {
+  display: flex;
+  padding: 1em;
+}
+
+.footer,
+.push {
+  height: 60px;
+}
+
+.footer-flex li { padding: 0.3em; }
+
+#flash-messages {
+  margin: auto;
+}
+
+.current-color {
+  color: #fe6001 !important;
+}
+
+// form
+
+.search-position {
+  position: absolute;
+  right: 10px;
+  top: 11px;
+}
+
+.btn-secondary {
+  background-color: #fe6001;
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(to right, #fda10e 0%, #ff6c0d 100%);
+}
+
+.form-margin-left {
+  margin-left: -88px;
+  height: 38px;
+}
+
+.search-form {
+  margin-left: auto;
+}
+
+.home-links {
+  margin-left: 170px;
+}

@@ -1,0 +1,15 @@
+current directory: /home/jaspreet/Desktop/rails/dev_blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/jaspreet/.rbenv/versions/2.6.5/bin/ruby -I /home/jaspreet/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200614-30226-hicmdv.rb extconf.rb
+creating Makefile
+
+current directory: /home/jaspreet/Desktop/rails/dev_blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/jaspreet/Desktop/rails/dev_blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/jaspreet/Desktop/rails/dev_blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20200614-30226-1a7h19g

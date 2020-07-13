@@ -1,0 +1,60 @@
+.log-in-card {
+  background-color: #443a34;
+  opacity: 0.94;
+  width: 400px;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.sign-up-backgroung-img {
+  background-image: asset-url('log-in1.jpg');
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+}
+
+.btn-sign-in {
+  margin-top: 20px;
+}
+
+.btn-sign-in,
+.user-logo {
+  background: linear-gradient(to right, #fda10e 0%, #ff6c0d 100%);
+}
+
+.user-logo {
+  border: 3px solid silver;
+}
+
+.user-logo,
+.user-name-field {
+  border-radius: 0 !important;
+}
+
+.user-name-field {
+  height: 34px;
+  padding-bottom: 3px;
+}
+
+.user-field-padding {
+  padding-bottom: 20px;
+}
+
+.logo {
+  color: #fe6001;
+}
+
+#error_explanation {
+  width: auto !important;
+}
+
+#error_explanation h2 {
+  display: none;
+}
+
+div #error_explanation ul li {
+  font-size: 22px;
+  list-style: none;
+  padding-top: 10px;
+  margin-left: 15px;
+}

@@ -1,0 +1,33 @@
+.article-form-text-color {
+  color: #fe6001;
+}
+
+.btn-background-color {
+  background: linear-gradient(to right, #fda10e 0%, #ff6c0d 100%) !important;
+}
+
+.article-form {
+  position: relative;
+  margin: 40px 0 110px 0;
+  background-color: #4e443f;
+}
+
+.select-image {
+  margin-left: 10px;
+  padding-left: 0;
+  width: 325px;
+}
+
+.user-name-show-page {
+  color: #fe6001;
+}
+
+.text-article-show-page p {
+  font-size: 1.3rem;
+  line-height: 25px;
+}
+
+strong a:hover,
+.upvote-downvote a:hover {
+  background-color: transparent;
+}

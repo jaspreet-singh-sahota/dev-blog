@@ -17,6 +17,7 @@
 
 .main {
   color: yellow;
+
   @include background-from-partial(red);
 }
 
