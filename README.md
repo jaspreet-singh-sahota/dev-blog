@@ -52,11 +52,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is Microverse Capstone project for blogging site and I am going with the Dev-Blog theme, where user can write a blog with multiple tags. From these tags, the user can access all the blogs related to that particular tag. Users can also upvote and downvote a blog. Blog with the most upvote will be featured on the front page.
+Dev blog is a blogging app where users get to write articles and can provide multiple tags to their article. From these tags, the users can access all the blogs related to that particular tag and they can also upvote a blog. Blog with the most upvotes will be featured on the front page.
 
 - Full discription of the project can be seen here - https://www.notion.so/Lifestyle-articles-b82a5f10122b4cec924cd5d4a6cf7561
 
-## Video Discription Of The Project 
+## Video Description Of The Project 
 
 - Live link to Youtube here - https://youtu.be/in_27xn2lzo
 
